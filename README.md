@@ -319,6 +319,44 @@ This package uses Jest for testing:
 npm test
 ```
 
+## TypeScript Usage
+
+The package can be used in TypeScript applications. Here's a basic example with type definitions:
+
+```typescript
+// Type definitions for the database
+interface Country {
+  id: number;
+  name: string;
+  iso2: string;
+  iso3: string;
+  states: State[];
+}
+
+interface State {
+  id: number;
+  name: string;
+  state_code: string;
+  cities: City[];
+}
+
+interface City {
+  id: number;
+  name: string;
+  latitude: string;
+  longitude: string;
+}
+
+// Using the package with TypeScript
+import { createAPI } from 'countries-states-cities-neighborhood-database';
+
+const api = createAPI();
+const countries: Country[] = api.getAllCountries();
+const usStates: State[] = api.getStatesByCountry('US');
+```
+
+See the full React component example in the examples directory.
+
 ## License
 
 ISC
