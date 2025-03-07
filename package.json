@@ -1,0 +1,14 @@
+{
+  "name": "countries-states-cities-neighborhood-database",
+  "version": "1.0.0",
+  "description": "contains country, state, cities, neighborhood, and building data",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}

@@ -1,0 +1,4347 @@
+[
+    {
+      "city": "‘Ewa Beach",
+      "neighborhood": "HOAKALEI-KUAPAPA"
+    },
+    {
+      "city": "‘Ewa Beach",
+      "neighborhood": "EWA"
+    },
+    {
+      "city": "‘Ewa Beach",
+      "neighborhood": "EWA GEN CYPRESS POINT"
+    },
+    {
+      "city": "‘Ewa Beach",
+      "neighborhood": "HOAKALEI-KA MAKANA"
+    },
+    {
+      "city": "‘Ewa Beach",
+      "neighborhood": "EWA BEACH"
+    },
+    {
+      "city": "‘Ele‘ele",
+      "neighborhood": "ELEELE"
+    },
+    {
+      "city": "‘Ele‘ele",
+      "neighborhood": "KOLOA"
+    },
+    {
+      "city": "‘Aiea",
+      "neighborhood": "ROYAL SUMMIT"
+    },
+    {
+      "city": "‘Aiea",
+      "neighborhood": "AIEA AREA"
+    },
+    {
+      "city": "‘Aiea",
+      "neighborhood": null
+    },
+    {
+      "city": "‘Aiea",
+      "neighborhood": "NEWTOWN"
+    },
+    {
+      "city": "‘Aiea",
+      "neighborhood": "WAIMALU"
+    },
+    {
+      "city": "‘Aiea",
+      "neighborhood": "PEARLRIDGE"
+    },
+    {
+      "city": "‘Aiea",
+      "neighborhood": "HALAWA"
+    },
+    {
+      "city": "‘Aiea",
+      "neighborhood": "HALAWA HEIGHTS"
+    },
+    {
+      "city": "‘Aiea",
+      "neighborhood": "AIEA HEIGHTS"
+    },
+    {
+      "city": "‘Aiea",
+      "neighborhood": "WAIAU"
+    },
+    {
+      "city": "‘Aiea",
+      "neighborhood": "WAILUKU"
+    },
+    {
+      "city": "‘Aiea",
+      "neighborhood": "WAILUNA"
+    },
+    {
+      "city": "‘Aiea",
+      "neighborhood": "SALT LAKE"
+    },
+    {
+      "city": "‘Aiea",
+      "neighborhood": "AIEA"
+    },
+    {
+      "city": "Waipahu",
+      "neighborhood": "CRESTVIEW"
+    },
+    {
+      "city": "Waipahu",
+      "neighborhood": "SEAVIEW"
+    },
+    {
+      "city": "Waipahu",
+      "neighborhood": "WAIPAHU GARDENS"
+    },
+    {
+      "city": "Waipahu",
+      "neighborhood": "WAIPAHU ESTATES"
+    },
+    {
+      "city": "Waipahu",
+      "neighborhood": "WAIPAHU TRIANGLE"
+    },
+    {
+      "city": "Waipahu",
+      "neighborhood": "WAIKELE GULCH"
+    },
+    {
+      "city": "Waipahu",
+      "neighborhood": "WAIPAHU"
+    },
+    {
+      "city": "Waipahu",
+      "neighborhood": "VILLAGE PARK"
+    },
+    {
+      "city": "Waipahu",
+      "neighborhood": "WAIPIO GENTRY"
+    },
+    {
+      "city": "Waipahu",
+      "neighborhood": "ROYAL KUNIA"
+    },
+    {
+      "city": "Waipahu",
+      "neighborhood": "HARBOR VIEW"
+    },
+    {
+      "city": "Waipahu",
+      "neighborhood": "WAIKELE"
+    },
+    {
+      "city": "Waipahu",
+      "neighborhood": "AGPRESERVE"
+    },
+    {
+      "city": "Waipahu",
+      "neighborhood": "WAIKELE-RENAISSANCE"
+    },
+    {
+      "city": "Waipahu",
+      "neighborhood": "KOA RIDGE"
+    },
+    {
+      "city": "Waipahu",
+      "neighborhood": "HALE LUMI"
+    },
+    {
+      "city": "Waipahu",
+      "neighborhood": "WAIPAHU-LOWER"
+    },
+    {
+      "city": "Waipahu",
+      "neighborhood": "BUSINESS"
+    },
+    {
+      "city": "Waipahu",
+      "neighborhood": "ROBINSON HEIGHTS"
+    },
+    {
+      "city": "Waimea",
+      "neighborhood": "PUUKAPUFARMLOTS"
+    },
+    {
+      "city": "Waimea",
+      "neighborhood": "PUAKO BEACH"
+    },
+    {
+      "city": "Waimea",
+      "neighborhood": "MAMO CONDOMINIUM I"
+    },
+    {
+      "city": "Waimea",
+      "neighborhood": "WAIMEA"
+    },
+    {
+      "city": "Waimea",
+      "neighborhood": "HANAPEPE"
+    },
+    {
+      "city": "Waimea",
+      "neighborhood": "PUAKO"
+    },
+    {
+      "city": "Waimea",
+      "neighborhood": "PAAUILO"
+    },
+    {
+      "city": "Waimea",
+      "neighborhood": null
+    },
+    {
+      "city": "Waimea",
+      "neighborhood": "WAIMEA BY THE SEA"
+    },
+    {
+      "city": "Waimea",
+      "neighborhood": "NANI WAIMEA"
+    },
+    {
+      "city": "Waimea",
+      "neighborhood": "MAUNALANIRESORT"
+    },
+    {
+      "city": "Waimea",
+      "neighborhood": "LAKELAND"
+    },
+    {
+      "city": "Waimea",
+      "neighborhood": "WAIKII RANCH"
+    },
+    {
+      "city": "Waimea",
+      "neighborhood": "KEKAHA BEACH"
+    },
+    {
+      "city": "Waimea",
+      "neighborhood": "HAWI RD"
+    },
+    {
+      "city": "Waimea",
+      "neighborhood": "NOB HILL"
+    },
+    {
+      "city": "Waimea",
+      "neighborhood": "WAIAKA VILLAGE"
+    },
+    {
+      "city": "Waimea",
+      "neighborhood": "PUUKAPU"
+    },
+    {
+      "city": "Waimea",
+      "neighborhood": "ALA WAI KAHI"
+    },
+    {
+      "city": "Waimea",
+      "neighborhood": "PUUKAPU HMSTD"
+    },
+    {
+      "city": "Waimea",
+      "neighborhood": "MOKULOA"
+    },
+    {
+      "city": "Waimea",
+      "neighborhood": "MAMO CONDOMINIUM II"
+    },
+    {
+      "city": "Waimea",
+      "neighborhood": "AINAKOKUA"
+    },
+    {
+      "city": "Waimea",
+      "neighborhood": "KAHEI HOUSELOTS"
+    },
+    {
+      "city": "Waimea",
+      "neighborhood": "KEKAHA"
+    },
+    {
+      "city": "Waimanalo",
+      "neighborhood": "WAIMANALO"
+    },
+    {
+      "city": "Wailuku",
+      "neighborhood": "PACIFIC SHORES"
+    },
+    {
+      "city": "Wailuku",
+      "neighborhood": "MAALAEA"
+    },
+    {
+      "city": "Wailuku",
+      "neighborhood": "KALAMA GARDENS"
+    },
+    {
+      "city": "Wailuku",
+      "neighborhood": "MAUI VISTA"
+    },
+    {
+      "city": "Wailuku",
+      "neighborhood": "WAIHEE"
+    },
+    {
+      "city": "Wailuku",
+      "neighborhood": "WAILUKU"
+    },
+    {
+      "city": "Wailuku",
+      "neighborhood": "KAHAKULOA"
+    },
+    {
+      "city": "Wailuku",
+      "neighborhood": null
+    },
+    {
+      "city": "Wailuku",
+      "neighborhood": "KIHEIWLUKU/KAHA"
+    },
+    {
+      "city": "Wailuku",
+      "neighborhood": "WAILUKUWAIEHU"
+    },
+    {
+      "city": "Wailuku",
+      "neighborhood": "KAHULUI"
+    },
+    {
+      "city": "Wailea",
+      "neighborhood": "WAILEA"
+    },
+    {
+      "city": "Waikoloa",
+      "neighborhood": "WAIKOLOABCHRESOR"
+    },
+    {
+      "city": "Waikoloa",
+      "neighborhood": "VILLAGEESTATES1"
+    },
+    {
+      "city": "Waikoloa",
+      "neighborhood": "WAIKOLOA VILLAGE"
+    },
+    {
+      "city": "Waikoloa",
+      "neighborhood": "SUNSET RIDGE 3"
+    },
+    {
+      "city": "Waikoloa",
+      "neighborhood": "WAIKOLOA"
+    },
+    {
+      "city": "Waianae",
+      "neighborhood": "MAUNAOLU ESTATES"
+    },
+    {
+      "city": "Waianae",
+      "neighborhood": "WAIANAE"
+    },
+    {
+      "city": "Waianae",
+      "neighborhood": "MAKAHA VALLEY PLANTATION"
+    },
+    {
+      "city": "Waianae",
+      "neighborhood": "LUALUALEI"
+    },
+    {
+      "city": "Waianae",
+      "neighborhood": "MAILI BEACH PLACE"
+    },
+    {
+      "city": "Waianae",
+      "neighborhood": "MAILI"
+    },
+    {
+      "city": "Waianae",
+      "neighborhood": "HOLOMOANA AT SEA COUNTRY"
+    },
+    {
+      "city": "Waianae",
+      "neighborhood": "MAKAHA"
+    },
+    {
+      "city": "Waialua",
+      "neighborhood": "PAALAAKAI"
+    },
+    {
+      "city": "Waialua",
+      "neighborhood": "WAIALUA"
+    },
+    {
+      "city": "Waialua",
+      "neighborhood": "NORTH SHORE"
+    },
+    {
+      "city": "Waialua",
+      "neighborhood": "AGPRESERVE"
+    },
+    {
+      "city": "Waialua",
+      "neighborhood": "MOKULEIA"
+    },
+    {
+      "city": "Wahiawā",
+      "neighborhood": "WHITMORE VILLAGE"
+    },
+    {
+      "city": "Wahiawā",
+      "neighborhood": "NORTH SHORE"
+    },
+    {
+      "city": "Wahiawā",
+      "neighborhood": "WAHIAWA PARK"
+    },
+    {
+      "city": "Wahiawā",
+      "neighborhood": "WAHIAWA AREA"
+    },
+    {
+      "city": "Wahiawā",
+      "neighborhood": "WILIKINA"
+    },
+    {
+      "city": "Wahiawā",
+      "neighborhood": "GOVTAG"
+    },
+    {
+      "city": "Wahiawā",
+      "neighborhood": "WAHIAWA HEIGHTS"
+    },
+    {
+      "city": "Wahiawā",
+      "neighborhood": "HALEIWA"
+    },
+    {
+      "city": "Wahiawā",
+      "neighborhood": "WAHIAWA"
+    },
+    {
+      "city": "Test 2",
+      "neighborhood": null
+    },
+    {
+      "city": "Test",
+      "neighborhood": null
+    },
+    {
+      "city": "South Kona",
+      "neighborhood": "KONA SEA RANCH"
+    },
+    {
+      "city": "South Kona",
+      "neighborhood": "MILOLII BEACH LOTS"
+    },
+    {
+      "city": "South Kona",
+      "neighborhood": "Kailua-Kona"
+    },
+    {
+      "city": "South Kona",
+      "neighborhood": "KALAMAKOWALI"
+    },
+    {
+      "city": "South Kona",
+      "neighborhood": "Captain Cook"
+    },
+    {
+      "city": "South Kona",
+      "neighborhood": "HOKULI'A PHASE 1"
+    },
+    {
+      "city": "South Kona",
+      "neighborhood": "HŌNAUNAU"
+    },
+    {
+      "city": "South Kona",
+      "neighborhood": null
+    },
+    {
+      "city": "South Kona",
+      "neighborhood": "CAPTAIN COOK OCEAN VIEW"
+    },
+    {
+      "city": "South Kona",
+      "neighborhood": "HONAUNAU-NAPOOPOO"
+    },
+    {
+      "city": "South Kona",
+      "neighborhood": "CAPTAIN COOK"
+    },
+    {
+      "city": "South Kona",
+      "neighborhood": "KEALAKEKUA"
+    },
+    {
+      "city": "South Kona",
+      "neighborhood": "HILO"
+    },
+    {
+      "city": "South Kona",
+      "neighborhood": "NAPOOPOO"
+    },
+    {
+      "city": "South Kona",
+      "neighborhood": "KEALAKEUA"
+    },
+    {
+      "city": "South Kona",
+      "neighborhood": "KONAGARDENSSUBD"
+    },
+    {
+      "city": "South Kona",
+      "neighborhood": "MILOLIIBEACHLOTS"
+    },
+    {
+      "city": "South Kona",
+      "neighborhood": "KEALAKEKUABAYEST"
+    },
+    {
+      "city": "South Kona",
+      "neighborhood": "PUALANI TERRACE"
+    },
+    {
+      "city": "South Kona",
+      "neighborhood": "HOKULIA"
+    },
+    {
+      "city": "South Kona",
+      "neighborhood": "ELEMAKULE II"
+    },
+    {
+      "city": "South Kona",
+      "neighborhood": "OCEAN VIEW"
+    },
+    {
+      "city": "South Kona",
+      "neighborhood": "MILOLII HEIGHTS"
+    },
+    {
+      "city": "South Kona",
+      "neighborhood": "KAAWALOA"
+    },
+    {
+      "city": "South Kona",
+      "neighborhood": "HOKULI'A"
+    },
+    {
+      "city": "South Kona",
+      "neighborhood": "HOVE"
+    },
+    {
+      "city": "South Kona",
+      "neighborhood": "HONALOTESHIMA"
+    },
+    {
+      "city": "South Kona",
+      "neighborhood": "Kealakekua"
+    },
+    {
+      "city": "South Kona",
+      "neighborhood": "KINUE TERRACE"
+    },
+    {
+      "city": "South Kona",
+      "neighborhood": "HOKULIA PHASE 1"
+    },
+    {
+      "city": "South Kohala",
+      "neighborhood": "KA MILO AT MAUNA LANI"
+    },
+    {
+      "city": "South Kohala",
+      "neighborhood": "ONE OCEAN GOLF ESTATES"
+    },
+    {
+      "city": "South Kohala",
+      "neighborhood": "GOLF VILLAS AT MAUNA LANI RESORT"
+    },
+    {
+      "city": "South Kohala",
+      "neighborhood": "9 PUAKO BEACH DRIVE"
+    },
+    {
+      "city": "South Kohala",
+      "neighborhood": "KULALANI AT MAUNA LANI"
+    },
+    {
+      "city": "South Kohala",
+      "neighborhood": "21 PUAKO BEACH DR"
+    },
+    {
+      "city": "South Kohala",
+      "neighborhood": "AMAUI VILLAS AT MAUNA KEA RESORT"
+    },
+    {
+      "city": "South Kohala",
+      "neighborhood": "WAIKOLOA VILLAS PH I  II"
+    },
+    {
+      "city": "South Kohala",
+      "neighborhood": "HAINA COTTAGE"
+    },
+    {
+      "city": "South Kohala",
+      "neighborhood": "Waimea"
+    },
+    {
+      "city": "South Kohala",
+      "neighborhood": null
+    },
+    {
+      "city": "South Kohala",
+      "neighborhood": "PANIOLO CLUB I  II"
+    },
+    {
+      "city": "South Kohala",
+      "neighborhood": "WAIKOLOA COLONY VILLAS"
+    },
+    {
+      "city": "South Kohala",
+      "neighborhood": "FAIRWAY VILLAS AT WAIKOLOA BEACH RESORT"
+    },
+    {
+      "city": "South Kohala",
+      "neighborhood": "THE RESIDENCES OF LAULEA"
+    },
+    {
+      "city": "South Kohala",
+      "neighborhood": "KUMULANI AT THE UPLANDS AT MAUNA KEA"
+    },
+    {
+      "city": "South Kohala",
+      "neighborhood": "SHORES AT WAIKOLOA BEACH RESORT"
+    },
+    {
+      "city": "South Kohala",
+      "neighborhood": "HAPUNA BEACH RESIDENCES"
+    },
+    {
+      "city": "South Kohala",
+      "neighborhood": "GREENS AT WAIKOLOA"
+    },
+    {
+      "city": "South Kohala",
+      "neighborhood": "17TH FAIRWAY VILLAS  WAIKOLOA"
+    },
+    {
+      "city": "South Kohala",
+      "neighborhood": "KINOHOU ESTATES LOT 18"
+    },
+    {
+      "city": "South Kohala",
+      "neighborhood": "WAIULAULA AT MAUNA KEA RESORT"
+    },
+    {
+      "city": "South Kohala",
+      "neighborhood": "WAIKOLOA BEACH RESORT"
+    },
+    {
+      "city": "South Kohala",
+      "neighborhood": "PYUN FARMS"
+    },
+    {
+      "city": "South Kohala",
+      "neighborhood": "WAIKOLOA VILLAGE CONDOMINIUMS"
+    },
+    {
+      "city": "South Kohala",
+      "neighborhood": "MAUNA LANI TERRACE"
+    },
+    {
+      "city": "South Kohala",
+      "neighborhood": "37 PUAKO BEACH DRIVE"
+    },
+    {
+      "city": "South Kohala",
+      "neighborhood": "HALII KAI"
+    },
+    {
+      "city": "South Kohala",
+      "neighborhood": "KOLEA CONDO VILLAS"
+    },
+    {
+      "city": "South Kohala",
+      "neighborhood": "WAIKOLOA HILLS CONDO"
+    },
+    {
+      "city": "South Kohala",
+      "neighborhood": "MAUNA LANI POINT"
+    },
+    {
+      "city": "South Kohala",
+      "neighborhood": "MAKANA KAI AT WEHILANI - PH I"
+    },
+    {
+      "city": "South Kohala",
+      "neighborhood": "HALIA HALE AT KAUNAOA"
+    },
+    {
+      "city": "South Kohala",
+      "neighborhood": "WAIKOLOA BEACH VILLAS"
+    },
+    {
+      "city": "South Kohala",
+      "neighborhood": "TAMARACK PINES"
+    },
+    {
+      "city": "South Kohala",
+      "neighborhood": "ELIMA LANI CONDOMINIUMS"
+    },
+    {
+      "city": "South Kohala",
+      "neighborhood": "POINTE AT WAIKOLOA"
+    },
+    {
+      "city": "South Kohala",
+      "neighborhood": "VILLAGES AT MAUNA LANI"
+    },
+    {
+      "city": "South Kohala",
+      "neighborhood": "OPELO ROAD COTTAGE 8"
+    },
+    {
+      "city": "South Kohala",
+      "neighborhood": "PANIOLO GARDENS"
+    },
+    {
+      "city": "South Kohala",
+      "neighborhood": "FAIRWAYS AT MAUNA LANI"
+    },
+    {
+      "city": "South Kohala",
+      "neighborhood": "SANDALWOOD"
+    },
+    {
+      "city": "South Kohala",
+      "neighborhood": "WAIKOLOA VILLAGE"
+    },
+    {
+      "city": "South Kohala",
+      "neighborhood": "ELIMA LANI"
+    },
+    {
+      "city": "South Kohala",
+      "neighborhood": "ISLANDS AT MAUNA LANI THE"
+    },
+    {
+      "city": "South Kohala",
+      "neighborhood": "FAIRWAY TERRACE"
+    },
+    {
+      "city": "South Kohala",
+      "neighborhood": "KALA COTTAGE"
+    },
+    {
+      "city": "South Kohala",
+      "neighborhood": "VISTA WAIKOLOA"
+    },
+    {
+      "city": "South Kohala",
+      "neighborhood": "WAIMEA"
+    },
+    {
+      "city": "South Kohala",
+      "neighborhood": "PALM VILLAS AT MAUNA LANI"
+    },
+    {
+      "city": "South Kohala",
+      "neighborhood": "JOELJO"
+    },
+    {
+      "city": "South Hilo",
+      "neighborhood": "KAUMANA CITY"
+    },
+    {
+      "city": "South Hilo",
+      "neighborhood": "KAIWIKI HMSTD II"
+    },
+    {
+      "city": "South Hilo",
+      "neighborhood": "PEPEEKEO"
+    },
+    {
+      "city": "South Hilo",
+      "neighborhood": "PONAHAWAI"
+    },
+    {
+      "city": "South Hilo",
+      "neighborhood": "WAIAKEA VILLAS"
+    },
+    {
+      "city": "South Hilo",
+      "neighborhood": "HAKALAU"
+    },
+    {
+      "city": "South Hilo",
+      "neighborhood": "KUKUAU PLAZA"
+    },
+    {
+      "city": "South Hilo",
+      "neighborhood": "LAUPAHOEHOE"
+    },
+    {
+      "city": "South Hilo",
+      "neighborhood": "SUNRISE RIDGE"
+    },
+    {
+      "city": "South Hilo",
+      "neighborhood": "PARK HOKULANI"
+    },
+    {
+      "city": "South Hilo",
+      "neighborhood": "HAWAIIAN ACRES"
+    },
+    {
+      "city": "South Hilo",
+      "neighborhood": "HALE MOANA APARTMENTS"
+    },
+    {
+      "city": "South Hilo",
+      "neighborhood": "PANAEWA RES LOTS"
+    },
+    {
+      "city": "South Hilo",
+      "neighborhood": "KAWILI REGENCY"
+    },
+    {
+      "city": "South Hilo",
+      "neighborhood": "PAPAIKOU"
+    },
+    {
+      "city": "South Hilo",
+      "neighborhood": "HILO TERRACE"
+    },
+    {
+      "city": "South Hilo",
+      "neighborhood": "BOLKAN"
+    },
+    {
+      "city": "South Hilo",
+      "neighborhood": "WAINAKU TERRACE"
+    },
+    {
+      "city": "South Hilo",
+      "neighborhood": "KAUMANA"
+    },
+    {
+      "city": "South Hilo",
+      "neighborhood": "LOWER KAUMANA"
+    },
+    {
+      "city": "South Hilo",
+      "neighborhood": "HILO"
+    },
+    {
+      "city": "South Hilo",
+      "neighborhood": "KEAUKAHA"
+    },
+    {
+      "city": "South Hilo",
+      "neighborhood": "WAIAKEA CANE LOT"
+    },
+    {
+      "city": "South Hilo",
+      "neighborhood": "PUUEO"
+    },
+    {
+      "city": "South Hilo",
+      "neighborhood": "WAIAKEA HMSTD"
+    },
+    {
+      "city": "South Hilo",
+      "neighborhood": "POHAKULANI EST"
+    },
+    {
+      "city": "South Hilo",
+      "neighborhood": "MAUNALOA SHORES"
+    },
+    {
+      "city": "South Hilo",
+      "neighborhood": "AINAOLA HTS"
+    },
+    {
+      "city": "South Hilo",
+      "neighborhood": "WAIMEA"
+    },
+    {
+      "city": "South Hilo",
+      "neighborhood": "WAIAKA"
+    },
+    {
+      "city": "South Hilo",
+      "neighborhood": "WAIAKEA"
+    },
+    {
+      "city": "South Hilo",
+      "neighborhood": "HILO LAGOON CENTRE"
+    },
+    {
+      "city": "South Hilo",
+      "neighborhood": "LANAKILA HTS"
+    },
+    {
+      "city": "South Hilo",
+      "neighborhood": "ALAE POINT"
+    },
+    {
+      "city": "South Hilo",
+      "neighborhood": "BAYSHORE TOWERS"
+    },
+    {
+      "city": "South Hilo",
+      "neighborhood": "KAIWIKI ESTATES"
+    },
+    {
+      "city": "South Hilo",
+      "neighborhood": "PACIFIC HEIGHTS TOWN HOUSE CONDO I"
+    },
+    {
+      "city": "South Hilo",
+      "neighborhood": "KAUMANA HMSTD"
+    },
+    {
+      "city": "South Hilo",
+      "neighborhood": "WAIAKEA VILLAGE"
+    },
+    {
+      "city": "South Hilo",
+      "neighborhood": "PĀPA‘ALOA"
+    },
+    {
+      "city": "South Hilo",
+      "neighborhood": null
+    },
+    {
+      "city": "South Hilo",
+      "neighborhood": "AKOLEA PLANTATIO"
+    },
+    {
+      "city": "South Hilo",
+      "neighborhood": "ORCHID MANOR"
+    },
+    {
+      "city": "South Hilo",
+      "neighborhood": "HONOMU"
+    },
+    {
+      "city": "South Hilo",
+      "neighborhood": "HALAI TRACT"
+    },
+    {
+      "city": "South Hilo",
+      "neighborhood": "33 HUALALAI"
+    },
+    {
+      "city": "South Hilo",
+      "neighborhood": "PUUEO VILLA"
+    },
+    {
+      "city": "South Hilo",
+      "neighborhood": "NAALEHU"
+    },
+    {
+      "city": "South Hilo",
+      "neighborhood": "MAUNA LOA EST"
+    },
+    {
+      "city": "South Hilo",
+      "neighborhood": "KAUMANA HSELOTS"
+    },
+    {
+      "city": "South Hilo",
+      "neighborhood": "SURFS UP"
+    },
+    {
+      "city": "South Hilo",
+      "neighborhood": "726 WAIANUENUE AVE"
+    },
+    {
+      "city": "South Hilo",
+      "neighborhood": "WAIAKEA HSELOTS"
+    },
+    {
+      "city": "South Hilo",
+      "neighborhood": "KA WAENA LAPAAU"
+    },
+    {
+      "city": "Pāpa‘ikou",
+      "neighborhood": "KAIEIE HMSTD"
+    },
+    {
+      "city": "Pāpa‘ikou",
+      "neighborhood": "ONOMEA BAY"
+    },
+    {
+      "city": "Pāpa‘ikou",
+      "neighborhood": "PAPAIKOU"
+    },
+    {
+      "city": "Pāpa‘ikou",
+      "neighborhood": "ALEAMAI"
+    },
+    {
+      "city": "Puna",
+      "neighborhood": "MAUNA LOA ESTATES"
+    },
+    {
+      "city": "Puna",
+      "neighborhood": "OHIA EST"
+    },
+    {
+      "city": "Puna",
+      "neighborhood": null
+    },
+    {
+      "city": "Puna",
+      "neighborhood": "KALAPANA SEA VIE"
+    },
+    {
+      "city": "Puna",
+      "neighborhood": "HWN ORCHID ISLE"
+    },
+    {
+      "city": "Puna",
+      "neighborhood": "PACIFIC PAR GRDN"
+    },
+    {
+      "city": "Puna",
+      "neighborhood": "KAPOHO"
+    },
+    {
+      "city": "Puna",
+      "neighborhood": "PĀHOA"
+    },
+    {
+      "city": "Puna",
+      "neighborhood": "KEAAU"
+    },
+    {
+      "city": "Puna",
+      "neighborhood": "HAWAIIAN PARADISE PARK"
+    },
+    {
+      "city": "Puna",
+      "neighborhood": "SEAVIEW"
+    },
+    {
+      "city": "Puna",
+      "neighborhood": "GLENWOOD"
+    },
+    {
+      "city": "Puna",
+      "neighborhood": "ROYAL HAWAIIAN ESTATES"
+    },
+    {
+      "city": "Puna",
+      "neighborhood": "PUNA"
+    },
+    {
+      "city": "Puna",
+      "neighborhood": "TIKI GARDENS"
+    },
+    {
+      "city": "Puna",
+      "neighborhood": "EDEN ROC"
+    },
+    {
+      "city": "Puna",
+      "neighborhood": "KURTISTOWN"
+    },
+    {
+      "city": "Puna",
+      "neighborhood": "KALAPANA"
+    },
+    {
+      "city": "Puna",
+      "neighborhood": "HAWAIIAN ACRES"
+    },
+    {
+      "city": "Puna",
+      "neighborhood": "PACIFIC PAR MOUNT V"
+    },
+    {
+      "city": "Puna",
+      "neighborhood": "HAWAIIAN PARKS"
+    },
+    {
+      "city": "Puna",
+      "neighborhood": "EDEN ROCK EST"
+    },
+    {
+      "city": "Puna",
+      "neighborhood": "PUNI MAUKA"
+    },
+    {
+      "city": "Puna",
+      "neighborhood": "LEILANI ESTATES"
+    },
+    {
+      "city": "Puna",
+      "neighborhood": "NANAWALE ESTATES"
+    },
+    {
+      "city": "Puna",
+      "neighborhood": "ORCHIDLANDS ESTATES"
+    },
+    {
+      "city": "Puna",
+      "neighborhood": "FERN FOREST"
+    },
+    {
+      "city": "Puna",
+      "neighborhood": "PUNE"
+    },
+    {
+      "city": "Puna",
+      "neighborhood": "VOL GOLFCTRY"
+    },
+    {
+      "city": "Puna",
+      "neighborhood": "HWN PARADISE PK"
+    },
+    {
+      "city": "Puna",
+      "neighborhood": "MAUNA LOA EST"
+    },
+    {
+      "city": "Puna",
+      "neighborhood": "BLACK SAND BCH"
+    },
+    {
+      "city": "Puna",
+      "neighborhood": "KEAAU TRACT LOT 26-A"
+    },
+    {
+      "city": "Puna",
+      "neighborhood": "PUNA BCH PAL"
+    },
+    {
+      "city": "Puna",
+      "neighborhood": "OCEAN VIEW"
+    },
+    {
+      "city": "Puna",
+      "neighborhood": "HAWAIIAN SHORES"
+    },
+    {
+      "city": "Puna",
+      "neighborhood": "AINALOA"
+    },
+    {
+      "city": "Puna",
+      "neighborhood": "ORCHID LAND EST"
+    },
+    {
+      "city": "Puna",
+      "neighborhood": "BLACK SANDS"
+    },
+    {
+      "city": "Puna",
+      "neighborhood": "MOUNTAIN VIEW"
+    },
+    {
+      "city": "Puna",
+      "neighborhood": "NANAWALE EST"
+    },
+    {
+      "city": "Puna",
+      "neighborhood": "SCHMIDT"
+    },
+    {
+      "city": "Puna",
+      "neighborhood": "VOLCANO VILLAGE"
+    },
+    {
+      "city": "Puna",
+      "neighborhood": "ORCHID ISLE EST"
+    },
+    {
+      "city": "Puna",
+      "neighborhood": "ROYAL HWN EST"
+    },
+    {
+      "city": "Puna",
+      "neighborhood": "PAHOA"
+    },
+    {
+      "city": "Puna",
+      "neighborhood": "FERN ACRES"
+    },
+    {
+      "city": "Puna",
+      "neighborhood": " MOUNT VIEW SUBD"
+    },
+    {
+      "city": "Puna",
+      "neighborhood": "KOPUAFARMLOTS"
+    },
+    {
+      "city": "Puna",
+      "neighborhood": "HILO"
+    },
+    {
+      "city": "Puna",
+      "neighborhood": "HAWAIIAN BEACHES"
+    },
+    {
+      "city": "Puna",
+      "neighborhood": "Pāhoa"
+    },
+    {
+      "city": "Puna",
+      "neighborhood": "Mountain View"
+    },
+    {
+      "city": "Puna",
+      "neighborhood": "VOLCANO"
+    },
+    {
+      "city": "Pukalani",
+      "neighborhood": "MAKAWAOOLINDA/HALIIMAILE"
+    },
+    {
+      "city": "Pukalani",
+      "neighborhood": "PUKALANI"
+    },
+    {
+      "city": "Princeville",
+      "neighborhood": "PRINCEVILLE"
+    },
+    {
+      "city": "Princeville",
+      "neighborhood": "HANALEI"
+    },
+    {
+      "city": "Pepe‘ekeo",
+      "neighborhood": "PEPEEKEO"
+    },
+    {
+      "city": "Pepe‘ekeo",
+      "neighborhood": "NANI MALIO"
+    },
+    {
+      "city": "Pearl City",
+      "neighborhood": null
+    },
+    {
+      "city": "Pearl City",
+      "neighborhood": "PEARL CITY-LOWER"
+    },
+    {
+      "city": "Pearl City",
+      "neighborhood": "PEARL CITY"
+    },
+    {
+      "city": "Pearl City",
+      "neighborhood": "WAIAU"
+    },
+    {
+      "city": "Pearl City",
+      "neighborhood": "PEARL CITY-UPPER"
+    },
+    {
+      "city": "Pearl City",
+      "neighborhood": "MOMILANI"
+    },
+    {
+      "city": "Pearl City",
+      "neighborhood": "WAIMALU"
+    },
+    {
+      "city": "Pearl City",
+      "neighborhood": "WAIAU GARDENS KAI UNIT G-2"
+    },
+    {
+      "city": "Pearl City",
+      "neighborhood": "NAVYFEDERAL"
+    },
+    {
+      "city": "Pearl City",
+      "neighborhood": "PACIFIC PALISADES"
+    },
+    {
+      "city": "Pearl City",
+      "neighborhood": "WAILUNA"
+    },
+    {
+      "city": "Pearl City",
+      "neighborhood": "MANANA"
+    },
+    {
+      "city": "Papa‘Aloa",
+      "neighborhood": null
+    },
+    {
+      "city": "Paia",
+      "neighborhood": "SPRECKELSVILLEPAIA/KUAU"
+    },
+    {
+      "city": "Paia",
+      "neighborhood": "PAIA"
+    },
+    {
+      "city": "O‘Okala",
+      "neighborhood": null
+    },
+    {
+      "city": "North Kona",
+      "neighborhood": "HOKULIA PHASE 2"
+    },
+    {
+      "city": "North Kona",
+      "neighborhood": "KALANI SUNSET"
+    },
+    {
+      "city": "North Kona",
+      "neighborhood": "KEAUHOU AKAHI"
+    },
+    {
+      "city": "North Kona",
+      "neighborhood": "KONA WEST"
+    },
+    {
+      "city": "North Kona",
+      "neighborhood": "Kailua-Kona"
+    },
+    {
+      "city": "North Kona",
+      "neighborhood": "KAHALUU BAY VILLAS"
+    },
+    {
+      "city": "North Kona",
+      "neighborhood": "KONA PACIFIC"
+    },
+    {
+      "city": "North Kona",
+      "neighborhood": "OCEAN VIEW"
+    },
+    {
+      "city": "North Kona",
+      "neighborhood": "KONA COASTVIEW CONDOS"
+    },
+    {
+      "city": "North Kona",
+      "neighborhood": "HALE KONA KAI"
+    },
+    {
+      "city": "North Kona",
+      "neighborhood": "COUNTRY CLUB VILLAS"
+    },
+    {
+      "city": "North Kona",
+      "neighborhood": "KEAUHOU PALENA"
+    },
+    {
+      "city": "North Kona",
+      "neighborhood": "KONA MAGIC SANDS"
+    },
+    {
+      "city": "North Kona",
+      "neighborhood": "HONALO PLAZA"
+    },
+    {
+      "city": "North Kona",
+      "neighborhood": "HOOKELE 69"
+    },
+    {
+      "city": "North Kona",
+      "neighborhood": "CAPTAIN COOK"
+    },
+    {
+      "city": "North Kona",
+      "neighborhood": "MALUHIA KULA"
+    },
+    {
+      "city": "North Kona",
+      "neighborhood": "HONAUNAU-NAPOOPOO"
+    },
+    {
+      "city": "North Kona",
+      "neighborhood": "COTTAGES ON ALI'I DRIVE"
+    },
+    {
+      "city": "North Kona",
+      "neighborhood": "HOOKELE 61"
+    },
+    {
+      "city": "North Kona",
+      "neighborhood": "KEAUHOU RESORT"
+    },
+    {
+      "city": "North Kona",
+      "neighborhood": "LIONA KONA"
+    },
+    {
+      "city": "North Kona",
+      "neighborhood": "KONA ISLE"
+    },
+    {
+      "city": "North Kona",
+      "neighborhood": "KALAOA"
+    },
+    {
+      "city": "North Kona",
+      "neighborhood": "HONALO BUSINESS CENTER"
+    },
+    {
+      "city": "North Kona",
+      "neighborhood": "KONA KAI"
+    },
+    {
+      "city": "North Kona",
+      "neighborhood": "KALOKO LANI TERRACE"
+    },
+    {
+      "city": "North Kona",
+      "neighborhood": "COTTAGES ON ALII DRIVE"
+    },
+    {
+      "city": "North Kona",
+      "neighborhood": "KONA SUNSET VILLAS"
+    },
+    {
+      "city": "North Kona",
+      "neighborhood": "KONA POLYNESIA"
+    },
+    {
+      "city": "North Kona",
+      "neighborhood": "KOHANAIKI"
+    },
+    {
+      "city": "North Kona",
+      "neighborhood": "SEA VILLAGE"
+    },
+    {
+      "city": "North Kona",
+      "neighborhood": "HALE HINAHINA"
+    },
+    {
+      "city": "North Kona",
+      "neighborhood": "KAULANA AT KONA"
+    },
+    {
+      "city": "North Kona",
+      "neighborhood": "KANI LEA"
+    },
+    {
+      "city": "North Kona",
+      "neighborhood": "TERRACE AT KONA VISTAS"
+    },
+    {
+      "city": "North Kona",
+      "neighborhood": "KAMANI TREES"
+    },
+    {
+      "city": "North Kona",
+      "neighborhood": "MAKOLEA"
+    },
+    {
+      "city": "North Kona",
+      "neighborhood": "HALE ALANI"
+    },
+    {
+      "city": "North Kona",
+      "neighborhood": "HONALO"
+    },
+    {
+      "city": "North Kona",
+      "neighborhood": "ROYAL SEA-CLIFF CLUB"
+    },
+    {
+      "city": "North Kona",
+      "neighborhood": "KEAUHOU PUNAHELE"
+    },
+    {
+      "city": "North Kona",
+      "neighborhood": "THREE TREASURES"
+    },
+    {
+      "city": "North Kona",
+      "neighborhood": "NA HALE O KEAUHOU"
+    },
+    {
+      "city": "North Kona",
+      "neighborhood": "KONA BALI KAI"
+    },
+    {
+      "city": "North Kona",
+      "neighborhood": "PU'UANAHULU"
+    },
+    {
+      "city": "North Kona",
+      "neighborhood": "WAIMEA"
+    },
+    {
+      "city": "North Kona",
+      "neighborhood": "IOLANI"
+    },
+    {
+      "city": "North Kona",
+      "neighborhood": "KONA ISLANDER INN"
+    },
+    {
+      "city": "North Kona",
+      "neighborhood": "KONA COFFEE VILLAS"
+    },
+    {
+      "city": "North Kona",
+      "neighborhood": "KALANIKAI"
+    },
+    {
+      "city": "North Kona",
+      "neighborhood": "KAHALUU-KEAUHOU"
+    },
+    {
+      "city": "North Kona",
+      "neighborhood": "KONA MANSIONS V"
+    },
+    {
+      "city": "North Kona",
+      "neighborhood": "HOLUALOA BAY VILLAS"
+    },
+    {
+      "city": "North Kona",
+      "neighborhood": "KONA BARONS II"
+    },
+    {
+      "city": "North Kona",
+      "neighborhood": "PINES AT KAILUA-KONA II"
+    },
+    {
+      "city": "North Kona",
+      "neighborhood": "ROYAL KAHILI"
+    },
+    {
+      "city": "North Kona",
+      "neighborhood": "HALE KAI OKONA"
+    },
+    {
+      "city": "North Kona",
+      "neighborhood": "ALII LANI"
+    },
+    {
+      "city": "North Kona",
+      "neighborhood": "PINES AT KAILUA-KONA I"
+    },
+    {
+      "city": "North Kona",
+      "neighborhood": "KONA VISTAS"
+    },
+    {
+      "city": "North Kona",
+      "neighborhood": "UCHIMURA-VAN PERNIS PROFESSIONAL BLDG"
+    },
+    {
+      "city": "North Kona",
+      "neighborhood": "KONA ALII"
+    },
+    {
+      "city": "North Kona",
+      "neighborhood": "MALIA KAI"
+    },
+    {
+      "city": "North Kona",
+      "neighborhood": "CASA DE EMDEKO"
+    },
+    {
+      "city": "North Kona",
+      "neighborhood": "LUNAPULE KONA"
+    },
+    {
+      "city": "North Kona",
+      "neighborhood": "KAILUA-KONA"
+    },
+    {
+      "city": "North Kona",
+      "neighborhood": "KEOPU FARMS"
+    },
+    {
+      "city": "North Kona",
+      "neighborhood": "HALE KEHAU"
+    },
+    {
+      "city": "North Kona",
+      "neighborhood": "ROYAL ALII"
+    },
+    {
+      "city": "North Kona",
+      "neighborhood": "KEAUHOU GARDENS I"
+    },
+    {
+      "city": "North Kona",
+      "neighborhood": "KEAUHOU KONA SURF  RACQUET CLUB"
+    },
+    {
+      "city": "North Kona",
+      "neighborhood": "KAILUA BAY RESORT"
+    },
+    {
+      "city": "North Kona",
+      "neighborhood": "ALII PARK PLACE"
+    },
+    {
+      "city": "North Kona",
+      "neighborhood": "KEALAKEKUA"
+    },
+    {
+      "city": "North Kona",
+      "neighborhood": "KONA EASTWIND"
+    },
+    {
+      "city": "North Kona",
+      "neighborhood": "KONA SEA VILLAS"
+    },
+    {
+      "city": "North Kona",
+      "neighborhood": "KONA BY THE SEA"
+    },
+    {
+      "city": "North Kona",
+      "neighborhood": "HUALALAI VILLAGE"
+    },
+    {
+      "city": "North Kona",
+      "neighborhood": "KONA WESTWIND"
+    },
+    {
+      "city": "North Kona",
+      "neighborhood": "HOLUALOA"
+    },
+    {
+      "city": "North Kona",
+      "neighborhood": "KONA REEF"
+    },
+    {
+      "city": "North Kona",
+      "neighborhood": "MALIA OHANA FARMS"
+    },
+    {
+      "city": "North Kona",
+      "neighborhood": "KONA RIVIERA VILLA"
+    },
+    {
+      "city": "North Kona",
+      "neighborhood": "VILLAS AT KEAUHOU ESTATES"
+    },
+    {
+      "city": "North Kona",
+      "neighborhood": "KEOPU HEIGHTS"
+    },
+    {
+      "city": "North Kona",
+      "neighborhood": "KAHALUU MAUKA"
+    },
+    {
+      "city": "North Kona",
+      "neighborhood": "KONA SEA RIDGE"
+    },
+    {
+      "city": "North Kona",
+      "neighborhood": "HOLUALOA GARDENS"
+    },
+    {
+      "city": "North Kona",
+      "neighborhood": "KANALOA AT KONA"
+    },
+    {
+      "city": "North Kona",
+      "neighborhood": "ALII COVE"
+    },
+    {
+      "city": "North Kona",
+      "neighborhood": "SEASCAPE CONDOMINIUM"
+    },
+    {
+      "city": "North Kona",
+      "neighborhood": "ALII VILLAS"
+    },
+    {
+      "city": "North Kona",
+      "neighborhood": "KONA PLAZA"
+    },
+    {
+      "city": "North Kona",
+      "neighborhood": null
+    },
+    {
+      "city": "North Kona",
+      "neighborhood": "KONA SHORES"
+    },
+    {
+      "city": "North Kona",
+      "neighborhood": "GREENER PASTURES"
+    },
+    {
+      "city": "North Kona",
+      "neighborhood": "WHITE SANDS VILLAGE"
+    },
+    {
+      "city": "North Kona",
+      "neighborhood": "KONA MAKAI"
+    },
+    {
+      "city": "North Kona",
+      "neighborhood": "MAUNA LOA VILLAGE"
+    },
+    {
+      "city": "North Kona",
+      "neighborhood": "KAILUA VILLAGE"
+    },
+    {
+      "city": "North Kohala",
+      "neighborhood": "THE RANCH AT PUAKEA"
+    },
+    {
+      "city": "North Kohala",
+      "neighborhood": "HAWI HUI HOMESTEADS CONDOMINIUM PROJECT"
+    },
+    {
+      "city": "North Kohala",
+      "neighborhood": "HALAWA"
+    },
+    {
+      "city": "North Kohala",
+      "neighborhood": "AINAKEA"
+    },
+    {
+      "city": "North Kohala",
+      "neighborhood": "KAPAKAHI FARMS"
+    },
+    {
+      "city": "North Kohala",
+      "neighborhood": "KAPAAU"
+    },
+    {
+      "city": "North Kohala",
+      "neighborhood": "OLD QUINN PLACE"
+    },
+    {
+      "city": "North Kohala",
+      "neighborhood": "KAMUELA MEADOWS LOT 3"
+    },
+    {
+      "city": "North Kohala",
+      "neighborhood": "VEGAS"
+    },
+    {
+      "city": "North Kohala",
+      "neighborhood": "WAIMEA"
+    },
+    {
+      "city": "North Kohala",
+      "neighborhood": "KOHALA RANCH MEADOWS II"
+    },
+    {
+      "city": "North Kohala",
+      "neighborhood": "KAPAAU VILLAGE"
+    },
+    {
+      "city": "North Kohala",
+      "neighborhood": null
+    },
+    {
+      "city": "North Kohala",
+      "neighborhood": "HILO"
+    },
+    {
+      "city": "North Kohala",
+      "neighborhood": "WAIKOLOA VILLAGE"
+    },
+    {
+      "city": "North Kohala",
+      "neighborhood": "HALAWA GULCH"
+    },
+    {
+      "city": "North Kohala",
+      "neighborhood": "UPOLU RANCH"
+    },
+    {
+      "city": "North Kohala",
+      "neighborhood": "KOHALA KAI"
+    },
+    {
+      "city": "North Kohala",
+      "neighborhood": "PUE HUE HU CONDO"
+    },
+    {
+      "city": "North Kohala",
+      "neighborhood": "HAWI"
+    },
+    {
+      "city": "North Kohala",
+      "neighborhood": "HAWI PLANTATION"
+    },
+    {
+      "city": "North Hilo",
+      "neighborhood": "HILO"
+    },
+    {
+      "city": "North Hilo",
+      "neighborhood": "PĀPA‘ALOA"
+    },
+    {
+      "city": "North Hilo",
+      "neighborhood": "HAKALAU"
+    },
+    {
+      "city": "North Hilo",
+      "neighborhood": "ACOSTA"
+    },
+    {
+      "city": "North Hilo",
+      "neighborhood": "Laupahoehoe"
+    },
+    {
+      "city": "North Hilo",
+      "neighborhood": null
+    },
+    {
+      "city": "North Hilo",
+      "neighborhood": "PAPAALOA"
+    },
+    {
+      "city": "North Hilo",
+      "neighborhood": "WAIPUNALEI CONDOMINIUM"
+    },
+    {
+      "city": "North Hilo",
+      "neighborhood": "‘Ō‘ŌKALA"
+    },
+    {
+      "city": "North Hilo",
+      "neighborhood": "LAUPAHOEHOE"
+    },
+    {
+      "city": "North Hilo",
+      "neighborhood": "EDEN ROC"
+    },
+    {
+      "city": "North Hilo",
+      "neighborhood": "NĪNOLE"
+    },
+    {
+      "city": "Na‘alehu",
+      "neighborhood": "GREEN SANDS"
+    },
+    {
+      "city": "Na‘alehu",
+      "neighborhood": "DISCOVERYHARBOUR"
+    },
+    {
+      "city": "Na‘alehu",
+      "neighborhood": "KONA GARDENS"
+    },
+    {
+      "city": "Na‘alehu",
+      "neighborhood": "NAALEHU"
+    },
+    {
+      "city": "Na‘alehu",
+      "neighborhood": null
+    },
+    {
+      "city": "Na‘alehu",
+      "neighborhood": "DISCOVERY HARBOR"
+    },
+    {
+      "city": "Mililani Town",
+      "neighborhood": "MILILANI"
+    },
+    {
+      "city": "Mililani Town",
+      "neighborhood": "KUMELEWAI COURT PH II"
+    },
+    {
+      "city": "Mililani Town",
+      "neighborhood": "MILILANI MAUKA - LAUNANI VALLEY"
+    },
+    {
+      "city": "Mililani Town",
+      "neighborhood": "LAUNANI VALLEY"
+    },
+    {
+      "city": "Mililani Town",
+      "neighborhood": "NOB HILL III"
+    },
+    {
+      "city": "Mililani Town",
+      "neighborhood": "WAIPIO ACRESWAIKALANI WOODLANDS"
+    },
+    {
+      "city": "Mililani Town",
+      "neighborhood": "SUNSET AREA"
+    },
+    {
+      "city": "Mililani Town",
+      "neighborhood": "MILILANI AREA"
+    },
+    {
+      "city": "Mililani Town",
+      "neighborhood": "MILILANI MAUKA"
+    },
+    {
+      "city": "Maunaloa",
+      "neighborhood": "MOLOKAI"
+    },
+    {
+      "city": "Maunaloa",
+      "neighborhood": "MAUNALOA"
+    },
+    {
+      "city": "Maunaloa",
+      "neighborhood": null
+    },
+    {
+      "city": "Maunaloa",
+      "neighborhood": "MOLOKAI WEST"
+    },
+    {
+      "city": "Makawao",
+      "neighborhood": "WAILEA EKAHI III"
+    },
+    {
+      "city": "Makawao",
+      "neighborhood": "PAIA"
+    },
+    {
+      "city": "Makawao",
+      "neighborhood": "HAIKU"
+    },
+    {
+      "city": "Makawao",
+      "neighborhood": "MAKAWAOOLINDA/HALIIMAILE"
+    },
+    {
+      "city": "Makawao",
+      "neighborhood": "HALIIMAILE"
+    },
+    {
+      "city": "Makawao",
+      "neighborhood": null
+    },
+    {
+      "city": "Makawao",
+      "neighborhood": "PUKALANI"
+    },
+    {
+      "city": "Makawao",
+      "neighborhood": "MAKAWAO"
+    },
+    {
+      "city": "Lā‘ie",
+      "neighborhood": "KOOLAULOA"
+    },
+    {
+      "city": "Lā‘ie",
+      "neighborhood": "LAIE"
+    },
+    {
+      "city": "Lihue",
+      "neighborhood": "CALIPJO ESTATES CONDOMINIUMS"
+    },
+    {
+      "city": "Lihue",
+      "neighborhood": "TK RESORT"
+    },
+    {
+      "city": "Lihue",
+      "neighborhood": "HOOLUANA CONDOMINIUM AT KOHEA LOA PARCEL 3)"
+    },
+    {
+      "city": "Lihue",
+      "neighborhood": "KAHA LANI"
+    },
+    {
+      "city": "Lihue",
+      "neighborhood": "SUN VILLAGE-KAUAI"
+    },
+    {
+      "city": "Lihue",
+      "neighborhood": "VILLAS AT PUALI"
+    },
+    {
+      "city": "Lihue",
+      "neighborhood": "KAUAI BEACH RESORT"
+    },
+    {
+      "city": "Lihue",
+      "neighborhood": "LIHUE TOWNHOUSE"
+    },
+    {
+      "city": "Lihue",
+      "neighborhood": "KAMAMALU"
+    },
+    {
+      "city": "Lihue",
+      "neighborhood": "HOOKENA AT PUHI"
+    },
+    {
+      "city": "Lihue",
+      "neighborhood": "REGENCY HULEIA"
+    },
+    {
+      "city": "Lihue",
+      "neighborhood": "HEHI"
+    },
+    {
+      "city": "Lihue",
+      "neighborhood": "NAWILIWILI BAY VIEW"
+    },
+    {
+      "city": "Lihue",
+      "neighborhood": "KUKUI MOUNTAIN PARK"
+    },
+    {
+      "city": "Lihue",
+      "neighborhood": "HALELANI VILLAGE AT PUHI PH I"
+    },
+    {
+      "city": "Lihue",
+      "neighborhood": "MEA PAINA CONDOMINIUM"
+    },
+    {
+      "city": "Lihue",
+      "neighborhood": "NAWILIWILI"
+    },
+    {
+      "city": "Lihue",
+      "neighborhood": null
+    },
+    {
+      "city": "Lihue",
+      "neighborhood": "PAKELA IKE"
+    },
+    {
+      "city": "Lihue",
+      "neighborhood": "BANYAN HARBOR"
+    },
+    {
+      "city": "Lihue",
+      "neighborhood": "KAUAI BEACH VILLAS"
+    },
+    {
+      "city": "Lihue",
+      "neighborhood": "KALAPAKI VILLAS"
+    },
+    {
+      "city": "Lihue",
+      "neighborhood": "HALELANI VILLAGE AT PUHI PH IC"
+    },
+    {
+      "city": "Lihue",
+      "neighborhood": "KAUAI INN"
+    },
+    {
+      "city": "Lihue",
+      "neighborhood": "LIHUE"
+    },
+    {
+      "city": "Lihue",
+      "neighborhood": "HALELANI VILLAGE AT PUHI PH IB"
+    },
+    {
+      "city": "Lawai",
+      "neighborhood": "LAWAI"
+    },
+    {
+      "city": "Lanai City",
+      "neighborhood": "LANAI CITY"
+    },
+    {
+      "city": "Lanai City",
+      "neighborhood": null
+    },
+    {
+      "city": "Lanai City",
+      "neighborhood": "LANAI"
+    },
+    {
+      "city": "Lahaina",
+      "neighborhood": "KAANAPALI"
+    },
+    {
+      "city": "Lahaina",
+      "neighborhood": "WAIANAE"
+    },
+    {
+      "city": "Lahaina",
+      "neighborhood": null
+    },
+    {
+      "city": "Lahaina",
+      "neighborhood": "KAPALUA"
+    },
+    {
+      "city": "Lahaina",
+      "neighborhood": "NAPILIKAHANA/HONOKOWAI"
+    },
+    {
+      "city": "Lahaina",
+      "neighborhood": "OLOWALU"
+    },
+    {
+      "city": "Lahaina",
+      "neighborhood": "WAILUKU"
+    },
+    {
+      "city": "Lahaina",
+      "neighborhood": "NAPILI-HONOKOWAI"
+    },
+    {
+      "city": "Lahaina",
+      "neighborhood": "LAHAINA"
+    },
+    {
+      "city": "Kīlauea",
+      "neighborhood": "KILAUEA"
+    },
+    {
+      "city": "Kīlauea",
+      "neighborhood": "KALIHIWAI"
+    },
+    {
+      "city": "Kīlauea",
+      "neighborhood": null
+    },
+    {
+      "city": "Kīlauea",
+      "neighborhood": "HANALEI"
+    },
+    {
+      "city": "Kīhei",
+      "neighborhood": "MAUI MEADOWS"
+    },
+    {
+      "city": "Kīhei",
+      "neighborhood": "KIHEI"
+    },
+    {
+      "city": "Kīhei",
+      "neighborhood": "KIHEIWLUKU/KAHA"
+    },
+    {
+      "city": "Kīhei",
+      "neighborhood": null
+    },
+    {
+      "city": "Kīhei",
+      "neighborhood": "WAILEA"
+    },
+    {
+      "city": "Kīhei",
+      "neighborhood": "WAILEAMAKENA"
+    },
+    {
+      "city": "Kula",
+      "neighborhood": "KULAULUPALAKUA/KANAIO"
+    },
+    {
+      "city": "Kula",
+      "neighborhood": null
+    },
+    {
+      "city": "Kula",
+      "neighborhood": "KULA"
+    },
+    {
+      "city": "Kula",
+      "neighborhood": "HAIKU"
+    },
+    {
+      "city": "Kula",
+      "neighborhood": "MAKAWAO"
+    },
+    {
+      "city": "Kualapu‘u",
+      "neighborhood": "MOLOKAI"
+    },
+    {
+      "city": "Kualapu‘u",
+      "neighborhood": "HO'OLEHUA"
+    },
+    {
+      "city": "Kualapu‘u",
+      "neighborhood": "KUALAPUU"
+    },
+    {
+      "city": "Kualapu‘u",
+      "neighborhood": "MOLOKAI CENTRAL"
+    },
+    {
+      "city": "Koloa",
+      "neighborhood": "KUKUIULA-KAULU"
+    },
+    {
+      "city": "Koloa",
+      "neighborhood": "MANUALOHA PH I  II"
+    },
+    {
+      "city": "Koloa",
+      "neighborhood": "POIPU KAPILI"
+    },
+    {
+      "city": "Koloa",
+      "neighborhood": "KIAHUNA PH III-B"
+    },
+    {
+      "city": "Koloa",
+      "neighborhood": "KALAHEO MOUNTAIN ESTATES"
+    },
+    {
+      "city": "Koloa",
+      "neighborhood": "MAKAHUENA"
+    },
+    {
+      "city": "Koloa",
+      "neighborhood": "KALAHEO"
+    },
+    {
+      "city": "Koloa",
+      "neighborhood": "SUNSET KAHILI"
+    },
+    {
+      "city": "Koloa",
+      "neighborhood": "NIHI KAI VILLAS"
+    },
+    {
+      "city": "Koloa",
+      "neighborhood": "MAKANUI"
+    },
+    {
+      "city": "Koloa",
+      "neighborhood": "KOLOA CREEKSIDE ESTATES I"
+    },
+    {
+      "city": "Koloa",
+      "neighborhood": "POIPU SANDS"
+    },
+    {
+      "city": "Koloa",
+      "neighborhood": "KUKUIULA KAHALAWAI"
+    },
+    {
+      "city": "Koloa",
+      "neighborhood": "AHOPUEO"
+    },
+    {
+      "city": "Koloa",
+      "neighborhood": "KEONILOA CONDOMINIUM"
+    },
+    {
+      "city": "Koloa",
+      "neighborhood": "NANA UKA IKENA ESTATES"
+    },
+    {
+      "city": "Koloa",
+      "neighborhood": "POIPU MAKAI"
+    },
+    {
+      "city": "Koloa",
+      "neighborhood": "KUKUI'ULA"
+    },
+    {
+      "city": "Koloa",
+      "neighborhood": "KUHIO SHORES AT POIPU"
+    },
+    {
+      "city": "Koloa",
+      "neighborhood": "PRINCE KUHIO"
+    },
+    {
+      "city": "Koloa",
+      "neighborhood": "OMAO RANCH LANDS"
+    },
+    {
+      "city": "Koloa",
+      "neighborhood": "KIAHUNA PH I"
+    },
+    {
+      "city": "Koloa",
+      "neighborhood": "KOLOA"
+    },
+    {
+      "city": "Koloa",
+      "neighborhood": "LEI MALA ESTATES"
+    },
+    {
+      "city": "Koloa",
+      "neighborhood": "KIAHUNA PH II"
+    },
+    {
+      "city": "Koloa",
+      "neighborhood": "HIDDEN ESTATES"
+    },
+    {
+      "city": "Koloa",
+      "neighborhood": "HONU KAI VILLAS"
+    },
+    {
+      "city": "Koloa",
+      "neighborhood": "WHALERS COVE AT POIPU"
+    },
+    {
+      "city": "Koloa",
+      "neighborhood": "KIAHUNA PLANTATION"
+    },
+    {
+      "city": "Koloa",
+      "neighborhood": "POIPU AINA ESTATES LOT 4"
+    },
+    {
+      "city": "Koloa",
+      "neighborhood": "KIAHUNA PH III-A  IV-A"
+    },
+    {
+      "city": "Koloa",
+      "neighborhood": "PILI MAI AT POIPU"
+    },
+    {
+      "city": "Koloa",
+      "neighborhood": "KAUANOE O KOLOA"
+    },
+    {
+      "city": "Koloa",
+      "neighborhood": "POIPU"
+    },
+    {
+      "city": "Koloa",
+      "neighborhood": "POIPU BEACH ESTATES"
+    },
+    {
+      "city": "Koloa",
+      "neighborhood": "KOLOA GARDEN APARTMENTS"
+    },
+    {
+      "city": "Koloa",
+      "neighborhood": "KAI IKENA"
+    },
+    {
+      "city": "Koloa",
+      "neighborhood": "WAIKOMO STREAM VILLAS"
+    },
+    {
+      "city": "Koloa",
+      "neighborhood": "REGENCY AT POIPU KAI"
+    },
+    {
+      "city": "Koloa",
+      "neighborhood": "KALAHEO HILLSIDE ESTATES"
+    },
+    {
+      "city": "Koloa",
+      "neighborhood": "KAKELA MAKAI"
+    },
+    {
+      "city": "Koloa",
+      "neighborhood": null
+    },
+    {
+      "city": "Koloa",
+      "neighborhood": "KUKUIULA"
+    },
+    {
+      "city": "Koloa",
+      "neighborhood": "KILIPAKI ESTATES"
+    },
+    {
+      "city": "Koloa",
+      "neighborhood": "KIPUKA BEACHWALK"
+    },
+    {
+      "city": "Koloa",
+      "neighborhood": "KUKUIULA-KAHALAWAI"
+    },
+    {
+      "city": "Koloa",
+      "neighborhood": "VILLAS AT POIPU KAI"
+    },
+    {
+      "city": "Koloa",
+      "neighborhood": "PUUWAI ESTATES"
+    },
+    {
+      "city": "Koloa",
+      "neighborhood": "REGENCY VILLAS AT POIPU KAI"
+    },
+    {
+      "city": "Koloa",
+      "neighborhood": "KOLOA LANDING AT POIPU BEACH"
+    },
+    {
+      "city": "Koloa",
+      "neighborhood": "ELEELE"
+    },
+    {
+      "city": "Koloa",
+      "neighborhood": "POIPU AINA ESTATES LOT 1"
+    },
+    {
+      "city": "Koloa",
+      "neighborhood": "MAKAHUENA ESTATES"
+    },
+    {
+      "city": "Koloa",
+      "neighborhood": "KAHALA AT POIPU KAI I"
+    },
+    {
+      "city": "Koloa",
+      "neighborhood": "C T CONDOMINIUM"
+    },
+    {
+      "city": "Kekaha",
+      "neighborhood": "KEKAHA"
+    },
+    {
+      "city": "Ka‘ū",
+      "neighborhood": null
+    },
+    {
+      "city": "Ka‘ū",
+      "neighborhood": "DISCOVERY HARBOR"
+    },
+    {
+      "city": "Ka‘ū",
+      "neighborhood": "CAPTAIN COOK"
+    },
+    {
+      "city": "Ka‘ū",
+      "neighborhood": "PAHALA"
+    },
+    {
+      "city": "Ka‘ū",
+      "neighborhood": "MOUNTAIN VIEW"
+    },
+    {
+      "city": "Ka‘ū",
+      "neighborhood": "HOVR"
+    },
+    {
+      "city": "Ka‘ū",
+      "neighborhood": "COLONY I"
+    },
+    {
+      "city": "Ka‘ū",
+      "neighborhood": "VOLCANO"
+    },
+    {
+      "city": "Ka‘ū",
+      "neighborhood": "KAILUA-KONA"
+    },
+    {
+      "city": "Ka‘ū",
+      "neighborhood": "PAHALA VILLAGE"
+    },
+    {
+      "city": "Ka‘ū",
+      "neighborhood": "NAALEHU"
+    },
+    {
+      "city": "Ka‘ū",
+      "neighborhood": "OCEAN VIEW ESTATES"
+    },
+    {
+      "city": "Ka‘ū",
+      "neighborhood": "HI NATL PARK"
+    },
+    {
+      "city": "Ka‘ū",
+      "neighborhood": "VOLCANO GOLF COURSE"
+    },
+    {
+      "city": "Ka‘ū",
+      "neighborhood": "NINOLE"
+    },
+    {
+      "city": "Ka‘ū",
+      "neighborhood": "MORNING STAR"
+    },
+    {
+      "city": "Ka‘ū",
+      "neighborhood": "HOVE"
+    },
+    {
+      "city": "Ka‘ū",
+      "neighborhood": "Discovery Harbor"
+    },
+    {
+      "city": "Ka‘ū",
+      "neighborhood": "Naalehu"
+    },
+    {
+      "city": "Ka‘ū",
+      "neighborhood": "NĪNOLE"
+    },
+    {
+      "city": "Ka‘ū",
+      "neighborhood": "OCEAN VIEW"
+    },
+    {
+      "city": "Ka‘ū",
+      "neighborhood": "PĀPA‘ALOA"
+    },
+    {
+      "city": "Ka‘ū",
+      "neighborhood": "Ocean View"
+    },
+    {
+      "city": "Ka‘a‘awa",
+      "neighborhood": "KOOLAULOA"
+    },
+    {
+      "city": "Ka‘a‘awa",
+      "neighborhood": "KAAAWA"
+    },
+    {
+      "city": "Ka‘a‘awa",
+      "neighborhood": "KUALOA AREA"
+    },
+    {
+      "city": "Kaunakakai",
+      "neighborhood": "WAVECREST I"
+    },
+    {
+      "city": "Kaunakakai",
+      "neighborhood": "MOLOKAI WEST"
+    },
+    {
+      "city": "Kaunakakai",
+      "neighborhood": "MOLOKAI CENTRAL"
+    },
+    {
+      "city": "Kaunakakai",
+      "neighborhood": "MOLOKAI"
+    },
+    {
+      "city": "Kaunakakai",
+      "neighborhood": "MOLOKAI EAST"
+    },
+    {
+      "city": "Kaunakakai",
+      "neighborhood": "KAUNAKAKAI"
+    },
+    {
+      "city": "Kapolei",
+      "neighborhood": "MAKAKILO-UPPER"
+    },
+    {
+      "city": "Kapolei",
+      "neighborhood": "MAKAKILO-KAHIWELO"
+    },
+    {
+      "city": "Kapolei",
+      "neighborhood": "AWAKEA AT MEHANA"
+    },
+    {
+      "city": "Kapolei",
+      "neighborhood": "KO OLINA"
+    },
+    {
+      "city": "Kapolei",
+      "neighborhood": "KAPOLEI"
+    },
+    {
+      "city": "Kapolei",
+      "neighborhood": "MAKAKILO-PALEHUA HGTS"
+    },
+    {
+      "city": "Kapolei",
+      "neighborhood": "PALEHUA VILLAS PH I-IV"
+    },
+    {
+      "city": "Kapolei",
+      "neighborhood": "EWA"
+    },
+    {
+      "city": "Kapa‘a",
+      "neighborhood": "HISTORIC KEALOHA OCEANSIDE"
+    },
+    {
+      "city": "Kapa‘a",
+      "neighborhood": "ISLANDER ON THE BEACH"
+    },
+    {
+      "city": "Kapa‘a",
+      "neighborhood": "HUINA MEADOWS"
+    },
+    {
+      "city": "Kapa‘a",
+      "neighborhood": "KAMAKANI KAI"
+    },
+    {
+      "city": "Kapa‘a",
+      "neighborhood": "KOUKALAKA ESTATES"
+    },
+    {
+      "city": "Kapa‘a",
+      "neighborhood": "WAIPOULI BEACH RESORT"
+    },
+    {
+      "city": "Kapa‘a",
+      "neighborhood": "TWIN LAKES"
+    },
+    {
+      "city": "Kapa‘a",
+      "neighborhood": "ALOHA ACRES"
+    },
+    {
+      "city": "Kapa‘a",
+      "neighborhood": "KUKUNA SEASIDE ESTATES"
+    },
+    {
+      "city": "Kapa‘a",
+      "neighborhood": "EGGERKING VIEW"
+    },
+    {
+      "city": "Kapa‘a",
+      "neighborhood": "MOLOAA HUI II"
+    },
+    {
+      "city": "Kapa‘a",
+      "neighborhood": "MOLOAA HUI III"
+    },
+    {
+      "city": "Kapa‘a",
+      "neighborhood": "HA NAU HOU CONDOMINIUM"
+    },
+    {
+      "city": "Kapa‘a",
+      "neighborhood": "SOMEWHERE ESTATES"
+    },
+    {
+      "city": "Kapa‘a",
+      "neighborhood": "OLOHENA 142-J"
+    },
+    {
+      "city": "Kapa‘a",
+      "neighborhood": "WAILUA OASIS"
+    },
+    {
+      "city": "Kapa‘a",
+      "neighborhood": "6202 KAWAIHAU ROAD CONDOMINIUM"
+    },
+    {
+      "city": "Kapa‘a",
+      "neighborhood": "WAIMEA"
+    },
+    {
+      "city": "Kapa‘a",
+      "neighborhood": "KAPAHI FARM LOTS 9-D"
+    },
+    {
+      "city": "Kapa‘a",
+      "neighborhood": "GOLDENPOND LOT 9"
+    },
+    {
+      "city": "Kapa‘a",
+      "neighborhood": "PONO KAI"
+    },
+    {
+      "city": "Kapa‘a",
+      "neighborhood": "VILLAGE MANOR"
+    },
+    {
+      "city": "Kapa‘a",
+      "neighborhood": "HALE LONO"
+    },
+    {
+      "city": "Kapa‘a",
+      "neighborhood": "KEALIA"
+    },
+    {
+      "city": "Kapa‘a",
+      "neighborhood": "LOT 4 SLEEPING GIANT ACRES"
+    },
+    {
+      "city": "Kapa‘a",
+      "neighborhood": "PAMA HALE MOLOAA"
+    },
+    {
+      "city": "Kapa‘a",
+      "neighborhood": "MOLOAA VALLEY"
+    },
+    {
+      "city": "Kapa‘a",
+      "neighborhood": "KAPAA SANDS"
+    },
+    {
+      "city": "Kapa‘a",
+      "neighborhood": "KAMALU ROAD"
+    },
+    {
+      "city": "Kapa‘a",
+      "neighborhood": "LANI CONDO"
+    },
+    {
+      "city": "Kapa‘a",
+      "neighborhood": "4780 IIWI ROAD"
+    },
+    {
+      "city": "Kapa‘a",
+      "neighborhood": "SUNRISE FARMS"
+    },
+    {
+      "city": "Kapa‘a",
+      "neighborhood": "KEAPANA FARMS"
+    },
+    {
+      "city": "Kapa‘a",
+      "neighborhood": "WAILUA ULULANI II"
+    },
+    {
+      "city": "Kapa‘a",
+      "neighborhood": "KUKUNA BEACHFRONT ESTATES"
+    },
+    {
+      "city": "Kapa‘a",
+      "neighborhood": "PLANTATION HALE"
+    },
+    {
+      "city": "Kapa‘a",
+      "neighborhood": "HAUIKI VALLEY VIEW"
+    },
+    {
+      "city": "Kapa‘a",
+      "neighborhood": "KULANA"
+    },
+    {
+      "city": "Kapa‘a",
+      "neighborhood": "KALAMA VIEW ESTATES"
+    },
+    {
+      "city": "Kapa‘a",
+      "neighborhood": "ANAHOLA"
+    },
+    {
+      "city": "Kapa‘a",
+      "neighborhood": "MALAMA AINA OHANA"
+    },
+    {
+      "city": "Kapa‘a",
+      "neighborhood": "KONAWOOD"
+    },
+    {
+      "city": "Kapa‘a",
+      "neighborhood": "MOLOAA VALLEY FARMS"
+    },
+    {
+      "city": "Kapa‘a",
+      "neighborhood": "HONUA LANI KAPAA"
+    },
+    {
+      "city": "Kapa‘a",
+      "neighborhood": "KAMALU ESTATES"
+    },
+    {
+      "city": "Kapa‘a",
+      "neighborhood": "KAPAʻA"
+    },
+    {
+      "city": "Kapa‘a",
+      "neighborhood": "HALE ALA PIO"
+    },
+    {
+      "city": "Kapa‘a",
+      "neighborhood": "KALANA COURT"
+    },
+    {
+      "city": "Kapa‘a",
+      "neighborhood": "OLOHENA MOUNTAIN VIEW"
+    },
+    {
+      "city": "Kapa‘a",
+      "neighborhood": "KAWAIHAU"
+    },
+    {
+      "city": "Kapa‘a",
+      "neighborhood": "WAILUA HALE CONDOMINIUM"
+    },
+    {
+      "city": "Kapa‘a",
+      "neighborhood": "KAWAIHAU SPORTS VILLA"
+    },
+    {
+      "city": "Kapa‘a",
+      "neighborhood": "MAKALEHA PH I"
+    },
+    {
+      "city": "Kapa‘a",
+      "neighborhood": "ALIOMANU ESTATES VII"
+    },
+    {
+      "city": "Kapa‘a",
+      "neighborhood": "ESTATES AT MOLOAA BAY"
+    },
+    {
+      "city": "Kapa‘a",
+      "neighborhood": "ROLLING MEADOWS CONDOMINIUM"
+    },
+    {
+      "city": "Kapa‘a",
+      "neighborhood": "KIPAPA ROAD ESTATES"
+    },
+    {
+      "city": "Kapa‘a",
+      "neighborhood": "D K CONDOMINIUM"
+    },
+    {
+      "city": "Kapa‘a",
+      "neighborhood": "KALALEA PLANTATION"
+    },
+    {
+      "city": "Kapa‘a",
+      "neighborhood": "NANI O KALALEA RANCH"
+    },
+    {
+      "city": "Kapa‘a",
+      "neighborhood": "MALIA ESTATES"
+    },
+    {
+      "city": "Kapa‘a",
+      "neighborhood": "GILMAC FARMS"
+    },
+    {
+      "city": "Kao",
+      "neighborhood": null
+    },
+    {
+      "city": "Kaneohe",
+      "neighborhood": "BAYVIEW GOLF COURSE"
+    },
+    {
+      "city": "Kaneohe",
+      "neighborhood": "MATSON POINT"
+    },
+    {
+      "city": "Kaneohe",
+      "neighborhood": "TEMPLE VALLEY"
+    },
+    {
+      "city": "Kaneohe",
+      "neighborhood": "COUNTRY CLUB"
+    },
+    {
+      "city": "Kaneohe",
+      "neighborhood": "MAHALANI"
+    },
+    {
+      "city": "Kaneohe",
+      "neighborhood": "KANEOHE"
+    },
+    {
+      "city": "Kaneohe",
+      "neighborhood": "WAIKALUA"
+    },
+    {
+      "city": "Kaneohe",
+      "neighborhood": "HAIKU PARK"
+    },
+    {
+      "city": "Kaneohe",
+      "neighborhood": "PARKWAY"
+    },
+    {
+      "city": "Kaneohe",
+      "neighborhood": "KAMOOALII"
+    },
+    {
+      "city": "Kaneohe",
+      "neighborhood": "HEEIA VIEW"
+    },
+    {
+      "city": "Kaneohe",
+      "neighborhood": "HALE KOU"
+    },
+    {
+      "city": "Kaneohe",
+      "neighborhood": "AHAOLELO"
+    },
+    {
+      "city": "Kaneohe",
+      "neighborhood": "WAIKANE"
+    },
+    {
+      "city": "Kaneohe",
+      "neighborhood": "LULANI OCEAN"
+    },
+    {
+      "city": "Kaneohe",
+      "neighborhood": "BAY VIEW GARDEN"
+    },
+    {
+      "city": "Kaneohe",
+      "neighborhood": "MIKIOLA"
+    },
+    {
+      "city": "Kaneohe",
+      "neighborhood": "KAALAEA"
+    },
+    {
+      "city": "Kaneohe",
+      "neighborhood": "CROWN TERRACE"
+    },
+    {
+      "city": "Kaneohe",
+      "neighborhood": "HAIKU KNOLLS"
+    },
+    {
+      "city": "Kaneohe",
+      "neighborhood": "PIKOILOA"
+    },
+    {
+      "city": "Kaneohe",
+      "neighborhood": "KAPUNA HALA"
+    },
+    {
+      "city": "Kaneohe",
+      "neighborhood": "AHUIMANU AREA"
+    },
+    {
+      "city": "Kaneohe",
+      "neighborhood": "KAHUHIPA INDSTRL"
+    },
+    {
+      "city": "Kaneohe",
+      "neighborhood": "PUOHALA VILLAGE"
+    },
+    {
+      "city": "Kaneohe",
+      "neighborhood": "KANEOHE TOWN"
+    },
+    {
+      "city": "Kaneohe",
+      "neighborhood": "ALII BLUFFS"
+    },
+    {
+      "city": "Kaneohe",
+      "neighborhood": "MAHINUI"
+    },
+    {
+      "city": "Kaneohe",
+      "neighborhood": "KANEOHE WOODS"
+    },
+    {
+      "city": "Kaneohe",
+      "neighborhood": "VALLEY ESTATES"
+    },
+    {
+      "city": "Kaneohe",
+      "neighborhood": "KUALOA BEACH"
+    },
+    {
+      "city": "Kaneohe",
+      "neighborhood": "BAY VIEW ESTATES"
+    },
+    {
+      "city": "Kaneohe",
+      "neighborhood": "AHUIMANU HILLS"
+    },
+    {
+      "city": "Kaneohe",
+      "neighborhood": "PUUALII"
+    },
+    {
+      "city": "Kaneohe",
+      "neighborhood": "HALEPUU"
+    },
+    {
+      "city": "Kaneohe",
+      "neighborhood": "LILIPUNA"
+    },
+    {
+      "city": "Kaneohe",
+      "neighborhood": "KANEOHE BAY"
+    },
+    {
+      "city": "Kaneohe",
+      "neighborhood": "AHUIMANU KNOLLS"
+    },
+    {
+      "city": "Kaneohe",
+      "neighborhood": "CASTLE HILL"
+    },
+    {
+      "city": "Kaneohe",
+      "neighborhood": "HALEKAUWILA"
+    },
+    {
+      "city": "Kaneohe",
+      "neighborhood": "WOODRIDGE"
+    },
+    {
+      "city": "Kaneohe",
+      "neighborhood": "HAIKU PLANTATION"
+    },
+    {
+      "city": "Kaneohe",
+      "neighborhood": "KEAAHALA"
+    },
+    {
+      "city": "Kaneohe",
+      "neighborhood": "WAIHEE"
+    },
+    {
+      "city": "Kaneohe",
+      "neighborhood": "MOKULELE"
+    },
+    {
+      "city": "Kaneohe",
+      "neighborhood": "KAM HWY MAKAI"
+    },
+    {
+      "city": "Kaneohe",
+      "neighborhood": "ALII SHORES"
+    },
+    {
+      "city": "Kaneohe",
+      "neighborhood": "WAIAHOLE"
+    },
+    {
+      "city": "Kaneohe",
+      "neighborhood": "HAIKU VILLAGE"
+    },
+    {
+      "city": "Kaneohe",
+      "neighborhood": null
+    },
+    {
+      "city": "Kaneohe",
+      "neighborhood": "KOKOKAHI"
+    },
+    {
+      "city": "Kaneohe",
+      "neighborhood": "MIOMIO"
+    },
+    {
+      "city": "Kaneohe",
+      "neighborhood": "CLUB VIEW ESTATE"
+    },
+    {
+      "city": "Kaneohe",
+      "neighborhood": "KAHANAHOU"
+    },
+    {
+      "city": "Kaneohe",
+      "neighborhood": "KEAPUKA"
+    },
+    {
+      "city": "Kaneohe",
+      "neighborhood": "WINDWARD ESTATES"
+    },
+    {
+      "city": "Kaneohe",
+      "neighborhood": "KAHALUU TOWN"
+    },
+    {
+      "city": "Kalāheo",
+      "neighborhood": "KOLOA"
+    },
+    {
+      "city": "Kalāheo",
+      "neighborhood": "KALAHEO"
+    },
+    {
+      "city": "Kalihiwai",
+      "neighborhood": "KALIHIWAI"
+    },
+    {
+      "city": "Kailua-Kona",
+      "neighborhood": "LUNAPULE ROAD"
+    },
+    {
+      "city": "Kailua-Kona",
+      "neighborhood": "KONA HEAVENS"
+    },
+    {
+      "city": "Kailua-Kona",
+      "neighborhood": "KOMOHANA KAI"
+    },
+    {
+      "city": "Kailua-Kona",
+      "neighborhood": "KOMOHANA"
+    },
+    {
+      "city": "Kailua-Kona",
+      "neighborhood": "NORTH KONA"
+    },
+    {
+      "city": "Kailua-Kona",
+      "neighborhood": "KONA PALISADES"
+    },
+    {
+      "city": "Kailua-Kona",
+      "neighborhood": "MAUNA LOA ESTATES"
+    },
+    {
+      "city": "Kailua-Kona",
+      "neighborhood": "ALII DRIVE"
+    },
+    {
+      "city": "Kailua-Kona",
+      "neighborhood": "KALAOA"
+    },
+    {
+      "city": "Kailua-Kona",
+      "neighborhood": null
+    },
+    {
+      "city": "Kailua-Kona",
+      "neighborhood": "KALOKO"
+    },
+    {
+      "city": "Kailua-Kona",
+      "neighborhood": "KEAUHOU ESTATES"
+    },
+    {
+      "city": "Kailua-Kona",
+      "neighborhood": "KAILUA-KONA"
+    },
+    {
+      "city": "Kailua-Kona",
+      "neighborhood": "HOLUALOA"
+    },
+    {
+      "city": "Kailua-Kona",
+      "neighborhood": "LONO KONA"
+    },
+    {
+      "city": "Kailua-Kona",
+      "neighborhood": "KONA COASTVIEW"
+    },
+    {
+      "city": "Kailua-Kona",
+      "neighborhood": "KEALAKEHE"
+    },
+    {
+      "city": "Kailua-Kona",
+      "neighborhood": "KALANI SUNSET"
+    },
+    {
+      "city": "Kailua-Kona",
+      "neighborhood": "HALEWILI"
+    },
+    {
+      "city": "Kailua-Kona",
+      "neighborhood": "KEAUHOU"
+    },
+    {
+      "city": "Kailua-Kona",
+      "neighborhood": "KEAUHOU AREA"
+    },
+    {
+      "city": "Kailua-Kona",
+      "neighborhood": "PU'UANAHULU"
+    },
+    {
+      "city": "Kailua",
+      "neighborhood": "KALAMACNUT GROV"
+    },
+    {
+      "city": "Kailua",
+      "neighborhood": "COCONUT GROVE"
+    },
+    {
+      "city": "Kailua",
+      "neighborhood": "GOVTAG"
+    },
+    {
+      "city": "Kailua",
+      "neighborhood": "BLUESTONE"
+    },
+    {
+      "city": "Kailua",
+      "neighborhood": "MAUNAWILI"
+    },
+    {
+      "city": "Kailua",
+      "neighborhood": "KAILUA ESTATES"
+    },
+    {
+      "city": "Kailua",
+      "neighborhood": "KAOPA"
+    },
+    {
+      "city": "Kailua",
+      "neighborhood": "KAILUA"
+    },
+    {
+      "city": "Kailua",
+      "neighborhood": "AIKAHI PARK"
+    },
+    {
+      "city": "Kailua",
+      "neighborhood": "OLOMANA"
+    },
+    {
+      "city": "Kailua",
+      "neighborhood": "KUULEI TRACT"
+    },
+    {
+      "city": "Kailua",
+      "neighborhood": "KALAMA TRACT"
+    },
+    {
+      "city": "Kailua",
+      "neighborhood": "KUKANONO"
+    },
+    {
+      "city": "Kailua",
+      "neighborhood": "KALAHEO HILLSIDE"
+    },
+    {
+      "city": "Kailua",
+      "neighborhood": "KAILUA BLUFFS"
+    },
+    {
+      "city": "Kailua",
+      "neighborhood": "KAWAILOA-KAILUA"
+    },
+    {
+      "city": "Kailua",
+      "neighborhood": "BEACHSIDE"
+    },
+    {
+      "city": "Kailua",
+      "neighborhood": "HILLCREST"
+    },
+    {
+      "city": "Kailua",
+      "neighborhood": "CNTRY CLUB KNOLL"
+    },
+    {
+      "city": "Kailua",
+      "neighborhood": "ENCHANTED LAKE"
+    },
+    {
+      "city": "Kailua",
+      "neighborhood": "KAIMALINO"
+    },
+    {
+      "city": "Kailua",
+      "neighborhood": "KAILUA TOWN"
+    },
+    {
+      "city": "Kailua",
+      "neighborhood": "MANANA"
+    },
+    {
+      "city": "Kailua",
+      "neighborhood": "KOOLAUPOKO"
+    },
+    {
+      "city": "Kailua",
+      "neighborhood": "KUKILAKILA"
+    },
+    {
+      "city": "Kailua",
+      "neighborhood": "LANIKAI"
+    },
+    {
+      "city": "Kailua",
+      "neighborhood": "KAILUA-KONA"
+    },
+    {
+      "city": "Kailua",
+      "neighborhood": "POHAKUPU"
+    },
+    {
+      "city": "Kailua",
+      "neighborhood": "KEOLU HILLS"
+    },
+    {
+      "city": "Kailua",
+      "neighborhood": "KANEOHE BAY"
+    },
+    {
+      "city": "Kailua",
+      "neighborhood": "KALAOA"
+    },
+    {
+      "city": "Kahului",
+      "neighborhood": "KAHULUI"
+    },
+    {
+      "city": "Kahului",
+      "neighborhood": null
+    },
+    {
+      "city": "Kahului",
+      "neighborhood": "KIHEIWLUKU/KAHA"
+    },
+    {
+      "city": "Kahuku",
+      "neighborhood": "KUILIMA"
+    },
+    {
+      "city": "Kahuku",
+      "neighborhood": "MALAEKAHANA"
+    },
+    {
+      "city": "Kahuku",
+      "neighborhood": "AGPRESERVE"
+    },
+    {
+      "city": "Kahuku",
+      "neighborhood": "KAHUKU"
+    },
+    {
+      "city": "Kahuku",
+      "neighborhood": "KOOLAULOA"
+    },
+    {
+      "city": "Kahuku",
+      "neighborhood": "KAWELA BAY"
+    },
+    {
+      "city": "Kahaluu-Keauhou",
+      "neighborhood": "KAHALUU-KEAUHOU"
+    },
+    {
+      "city": "Hāmākua",
+      "neighborhood": "WAIKAALULU RANCH"
+    },
+    {
+      "city": "Hāmākua",
+      "neighborhood": "LEHUA MAUKA"
+    },
+    {
+      "city": "Hāmākua",
+      "neighborhood": "KAHANA COUNTRY COTTAGES"
+    },
+    {
+      "city": "Hāmākua",
+      "neighborhood": "AHUALOA MANOR"
+    },
+    {
+      "city": "Hāmākua",
+      "neighborhood": "PAAUILO"
+    },
+    {
+      "city": "Hāmākua",
+      "neighborhood": "HAMAKUA"
+    },
+    {
+      "city": "Hāmākua",
+      "neighborhood": null
+    },
+    {
+      "city": "Hāmākua",
+      "neighborhood": "WAIMEA"
+    },
+    {
+      "city": "Hāmākua",
+      "neighborhood": "HONOKAA"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "KAIMUKI"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "KOKO HEAD TERRACE"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "KAPIOKINAU/WARD"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "AIRPORTINDUSTL"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "WAIALAE GC"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "NIU BEACH"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "MANOA-UPPER"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "NAPALI HAWEO"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "PAIKO LAGOON"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "NUUANU PARK PLACE"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "KEALAULA KAI"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "MANOA-LOWER"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "ALIAMANU - SALT LAKES - FOSTER VILLAGE"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "NUUANU AREA"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "KAPALAMA"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "AZURE ALA MOANA"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "PUUNUI"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "MAUNALANI HEIGHTS"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "KAKAAKO"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "HOLIDAY MART"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "KAPAHULU"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "DOWSETT"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "MARINERS VALLEY"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "HAHAIONE-UPPER"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "NUUANU PALI"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "WAIKIKI BEACH TOWER"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "NUUANU - PUNCHBOWL"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "KAPOLEI"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "NIU VALLEY"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "UNIVERSITY"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "DIAMOND HEAD"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "MANOA-WOODLAWN"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "HONOLULU"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "HALAWA"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "HAWAII KAI"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "WAIALAE IKI"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "KALANI IKI"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "HAHAIONE-LOWER"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "KALELE KAI"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "WAIALAE - KAHALA"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "KAHALA-BLACK POINT"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "WAIALAE NUI VLY"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "KAMEHAME RIDGE"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "PUNAHOU"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "ALA MOANA"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "AINA HAINA AREA"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "PAWAA"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "SPINNAKER ISLE"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "UALAKAA"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "MAKIKI"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "KUHIO VILLAGE II"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "FOSTER VILLAGE"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "PALOLO"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "KAAAWA"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "KAHALA KUA"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "WAILUPE BCH"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "COLONY MARINA"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "MOANALUA GARDENS"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "KUAKINI"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "NAPUA POINT"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "DOWNTOWN"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": null
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "KOKO VILLAS"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "JUDD HILLSIDE"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "MILILANI MAUKA"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "PAUOA VALLEY"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "MOILIILI"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "EWA GEN ALII COVE"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "NIANGALA"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "KULIOUOU - KALANI IKI"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "PALAMA"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "PORTLOCK"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "KALIHI-UPPER"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "TRADEWINDS HOTEL INC"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "ANCHORAGE"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "LUNA KAI"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "AINA HAINA BEACH"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "MILILANI AREA"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "LILIHA - KAPALAMA"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "KALIHI AREA"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "MARINA WEST"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "KALAMA VALLEY"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "SALT LAKE"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "LILIHA"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "PUNCHBOWL AREA"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "KALIHI UKA"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "PACIFIC HEIGHTS"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "MANOA"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "KALIHI VALLEY"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "KULIOUOU"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "WAIPUNA"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "PUNCHBOWL-LOWER"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "LAULIMA"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "MILITARY"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "DILLINGHAM"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "KAKA'AKO"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "MAKIKI AREA"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "MARINERS COVE"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "KAPIOLANI"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "ALIAMANU"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "WAILUPE AREA"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "HAWAII LOA RIDGE"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "KALIHI-LOWER"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "CHINATOWN"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "TANTALUS"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "MCCULLY"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "ST LOUIS"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "LAKESIDE"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "WAIKIKI"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "WILHELMINA"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "WAIALAE NUI RDGE"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "MOANALUA VALLEY"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "KAMEHAMEHA HEIGHTS"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "MAKIKI HEIGHTS"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "PARK LANE"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "NUUANU BROOKSIDE"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "MARINERS RIDGE"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "QUEENS GATE"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "WEST MARINA"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "KAMILO NUI"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "WAIPIO ACRESWAIKALANI WOODLANDS"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "KALIHI - PALAMA"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "KAHALA AREA"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "PAPAKOLEA"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "MAKIKI/LOWER/ PUNCHBOWL/TANTALUS"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "KAHALA-PUUPANINI"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "KAI NANI"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "KOKO KAI"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "DIAMOND HEAD / KAPAHULU / ST. LOUIS HEIGHTS"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "MCCULLY - MOILIILI"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "ALEWA HEIGHTS"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "WAIALAE NUI-LWR"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "MOANALUA"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "OLD PALI"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "OAHU CC"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "KAMILOIKI"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "TRIANGLE"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "NUUANU-LOWER"
+    },
+    {
+      "city": "Honolulu",
+      "neighborhood": "MANOA AREA"
+    },
+    {
+      "city": "Honoka‘a",
+      "neighborhood": "HONOKAA"
+    },
+    {
+      "city": "Honoka‘a",
+      "neighborhood": "WAIMEA"
+    },
+    {
+      "city": "Honoka‘a",
+      "neighborhood": "KUKUIHAELE"
+    },
+    {
+      "city": "Honoka‘a",
+      "neighborhood": null
+    },
+    {
+      "city": "Hickam Field",
+      "neighborhood": "HICKAM AIR FORCE BASE"
+    },
+    {
+      "city": "Hawaiian Ocean View",
+      "neighborhood": "OCEAN VIEW ESTATES"
+    },
+    {
+      "city": "Hawaiian Ocean View",
+      "neighborhood": "CAPTAIN COOK"
+    },
+    {
+      "city": "Hawaiian Ocean View",
+      "neighborhood": "KONA GARDEN EST"
+    },
+    {
+      "city": "Hawaiian Ocean View",
+      "neighborhood": "HOVR"
+    },
+    {
+      "city": "Hawaiian Ocean View",
+      "neighborhood": "HOVE"
+    },
+    {
+      "city": "Hawaiian Ocean View",
+      "neighborhood": "OCEAN VIEW"
+    },
+    {
+      "city": "Hau‘ula",
+      "neighborhood": "KOOLAULOA"
+    },
+    {
+      "city": "Hau‘ula",
+      "neighborhood": null
+    },
+    {
+      "city": "Hau‘ula",
+      "neighborhood": "HAUULA"
+    },
+    {
+      "city": "Hau‘ula",
+      "neighborhood": "PUNALUU"
+    },
+    {
+      "city": "Hau‘ula",
+      "neighborhood": "AGPRESERVE"
+    },
+    {
+      "city": "Hanapēpē",
+      "neighborhood": "HANAPEPE"
+    },
+    {
+      "city": "Hanapēpē",
+      "neighborhood": "WAIMEA"
+    },
+    {
+      "city": "Hanalei",
+      "neighborhood": "NANI NAMAHANA"
+    },
+    {
+      "city": "Hanalei",
+      "neighborhood": "NAIA COVE AT ANINI VISTA"
+    },
+    {
+      "city": "Hanalei",
+      "neighborhood": "PRINCEVILLE PANIOLO"
+    },
+    {
+      "city": "Hanalei",
+      "neighborhood": "NORTH SHORE PRESERVE OCEANSIDE RANCH"
+    },
+    {
+      "city": "Hanalei",
+      "neighborhood": "HOALOHA AINA"
+    },
+    {
+      "city": "Hanalei",
+      "neighborhood": "KAI-HALULU CONDOMINIUM"
+    },
+    {
+      "city": "Hanalei",
+      "neighborhood": "KALIHIWAI RIDGE II LOT 5"
+    },
+    {
+      "city": "Hanalei",
+      "neighborhood": "PUKALANI CONDOMINIUM"
+    },
+    {
+      "city": "Hanalei",
+      "neighborhood": "KALIHIWAI RIDGE MAUKA"
+    },
+    {
+      "city": "Hanalei",
+      "neighborhood": "MALIE WAI CONDOMINIUM"
+    },
+    {
+      "city": "Hanalei",
+      "neighborhood": "KOHOLA POINT"
+    },
+    {
+      "city": "Hanalei",
+      "neighborhood": "NO KA OI"
+    },
+    {
+      "city": "Hanalei",
+      "neighborhood": "LANI NA KAI"
+    },
+    {
+      "city": "Hanalei",
+      "neighborhood": "VILLAS ON THE PRINCE"
+    },
+    {
+      "city": "Hanalei",
+      "neighborhood": "WAINIHA"
+    },
+    {
+      "city": "Hanalei",
+      "neighborhood": "LOT 217 WAINIHA HUI LANDS"
+    },
+    {
+      "city": "Hanalei",
+      "neighborhood": "KAPAKA MELE"
+    },
+    {
+      "city": "Hanalei",
+      "neighborhood": "LOKO FARMS"
+    },
+    {
+      "city": "Hanalei",
+      "neighborhood": "PLANTATION AT PRINCEVILLE"
+    },
+    {
+      "city": "Hanalei",
+      "neighborhood": "AHONUI GARDENS"
+    },
+    {
+      "city": "Hanalei",
+      "neighborhood": "KUKUI FOREST AGRICULTURAL CONDO"
+    },
+    {
+      "city": "Hanalei",
+      "neighborhood": "MALUHIA"
+    },
+    {
+      "city": "Hanalei",
+      "neighborhood": "KEALA RANCH"
+    },
+    {
+      "city": "Hanalei",
+      "neighborhood": "KE ALA O KE AHE"
+    },
+    {
+      "city": "Hanalei",
+      "neighborhood": "HALE MOI"
+    },
+    {
+      "city": "Hanalei",
+      "neighborhood": "HANALEI BAY VILLAS"
+    },
+    {
+      "city": "Hanalei",
+      "neighborhood": "OPALIPALI"
+    },
+    {
+      "city": "Hanalei",
+      "neighborhood": "SEALODGE II"
+    },
+    {
+      "city": "Hanalei",
+      "neighborhood": "PALI KE KUA INCR III,III"
+    },
+    {
+      "city": "Hanalei",
+      "neighborhood": null
+    },
+    {
+      "city": "Hanalei",
+      "neighborhood": "KAHALELA IPU"
+    },
+    {
+      "city": "Hanalei",
+      "neighborhood": "CLIFFS AT PRINCEVILLE"
+    },
+    {
+      "city": "Hanalei",
+      "neighborhood": "PRINCEVILLE"
+    },
+    {
+      "city": "Hanalei",
+      "neighborhood": "HANALEI COLONY RESORT"
+    },
+    {
+      "city": "Hanalei",
+      "neighborhood": "PRINCEVILLE MAUNA KAI"
+    },
+    {
+      "city": "Hanalei",
+      "neighborhood": "EMMALANI COURT"
+    },
+    {
+      "city": "Hanalei",
+      "neighborhood": "PALI KE KUA II"
+    },
+    {
+      "city": "Hanalei",
+      "neighborhood": "KILAUEA"
+    },
+    {
+      "city": "Hanalei",
+      "neighborhood": "NAHELE LIHI"
+    },
+    {
+      "city": "Hanalei",
+      "neighborhood": "MAKAPILI ESTATES"
+    },
+    {
+      "city": "Hanalei",
+      "neighborhood": "NAMAHANA ACRES"
+    },
+    {
+      "city": "Hanalei",
+      "neighborhood": "HAU CONDO"
+    },
+    {
+      "city": "Hanalei",
+      "neighborhood": "VISTA MAR"
+    },
+    {
+      "city": "Hanalei",
+      "neighborhood": "MOANA IKENA"
+    },
+    {
+      "city": "Hanalei",
+      "neighborhood": "WAIAKALUA LAKE FARMS AG CONDO"
+    },
+    {
+      "city": "Hanalei",
+      "neighborhood": "LUNALILO CONDOMINIUM"
+    },
+    {
+      "city": "Hanalei",
+      "neighborhood": "KAIULANI OF PRINCEVILLE"
+    },
+    {
+      "city": "Hanalei",
+      "neighborhood": "PILAA FARMS"
+    },
+    {
+      "city": "Hanalei",
+      "neighborhood": "PALI KE KUA III"
+    },
+    {
+      "city": "Hanalei",
+      "neighborhood": "PUU PANE 9 CONDO"
+    },
+    {
+      "city": "Hanalei",
+      "neighborhood": "KILAUEA GARDENS FARMS"
+    },
+    {
+      "city": "Hanalei",
+      "neighborhood": "SECRET COVE"
+    },
+    {
+      "city": "Hanalei",
+      "neighborhood": "IWALANI ESTATES"
+    },
+    {
+      "city": "Hanalei",
+      "neighborhood": "HANALEI BAY RESORT"
+    },
+    {
+      "city": "Hanalei",
+      "neighborhood": "NENE KANE"
+    },
+    {
+      "city": "Hanalei",
+      "neighborhood": "HALE ANUENUE"
+    },
+    {
+      "city": "Hanalei",
+      "neighborhood": "NIHILANI AT PRINCEVILLE RESORT"
+    },
+    {
+      "city": "Hanalei",
+      "neighborhood": "TEN PLUS"
+    },
+    {
+      "city": "Hanalei",
+      "neighborhood": "PRINCEVILLE SEALODGE PH I"
+    },
+    {
+      "city": "Hanalei",
+      "neighborhood": "Princeville"
+    },
+    {
+      "city": "Hanalei",
+      "neighborhood": "HANALEI"
+    },
+    {
+      "city": "Hanalei",
+      "neighborhood": "VILLAS OF KAMALII"
+    },
+    {
+      "city": "Hanalei",
+      "neighborhood": "KAMAHANA"
+    },
+    {
+      "city": "Hanalei",
+      "neighborhood": "ALOHA AINA"
+    },
+    {
+      "city": "Hanalei",
+      "neighborhood": "PALI VISTA"
+    },
+    {
+      "city": "Hanalei",
+      "neighborhood": "HOOULUIKALEWA"
+    },
+    {
+      "city": "Hanalei",
+      "neighborhood": "KALIHIKAI BEACH ESTATES CONDOMINIUM"
+    },
+    {
+      "city": "Hanalei",
+      "neighborhood": "WAINIHA PLAIN VIEW CONDOMINIUM"
+    },
+    {
+      "city": "Hanalei",
+      "neighborhood": "PUAMANA"
+    },
+    {
+      "city": "Hanalei",
+      "neighborhood": "SANDPIPER VILLAGE I"
+    },
+    {
+      "city": "Hanalei",
+      "neighborhood": "WAIPAKE KAI"
+    },
+    {
+      "city": "Hanalei",
+      "neighborhood": "ALII KAI AT HANALEI"
+    },
+    {
+      "city": "Hana",
+      "neighborhood": "HANA"
+    },
+    {
+      "city": "Hana",
+      "neighborhood": "NAHIKU"
+    },
+    {
+      "city": "Hana",
+      "neighborhood": "KAUPO"
+    },
+    {
+      "city": "Hana",
+      "neighborhood": "KIPAHULU"
+    },
+    {
+      "city": "Hana",
+      "neighborhood": "HAIKU"
+    },
+    {
+      "city": "Hana",
+      "neighborhood": "KEANAE"
+    },
+    {
+      "city": "Hale‘iwa",
+      "neighborhood": "WAIALUA"
+    },
+    {
+      "city": "Hale‘iwa",
+      "neighborhood": "SUNSETVELZY"
+    },
+    {
+      "city": "Hale‘iwa",
+      "neighborhood": "NORTH SHORE"
+    },
+    {
+      "city": "Hale‘iwa",
+      "neighborhood": "AGPRESERVE"
+    },
+    {
+      "city": "Hale‘iwa",
+      "neighborhood": "WAIMEA"
+    },
+    {
+      "city": "Hale‘iwa",
+      "neighborhood": "BEACH PARKS"
+    },
+    {
+      "city": "Hale‘iwa",
+      "neighborhood": "KAWAILOA-NORTH SHORE"
+    },
+    {
+      "city": "Hale‘iwa",
+      "neighborhood": "PUPUKEA"
+    },
+    {
+      "city": "Hale‘iwa",
+      "neighborhood": "HALEIWA"
+    },
+    {
+      "city": "Hale‘iwa",
+      "neighborhood": "GOVTAG"
+    },
+    {
+      "city": "Hale‘iwa",
+      "neighborhood": "SUNSET AREA"
+    },
+    {
+      "city": "Haiku-Pauwela",
+      "neighborhood": "HAIKU"
+    },
+    {
+      "city": "Haiku-Pauwela",
+      "neighborhood": null
+    },
+    {
+      "city": "Haiku-Pauwela",
+      "neighborhood": "HAIKU-PAUWELA"
+    },
+    {
+      "city": "Haiku-Pauwela",
+      "neighborhood": "MAKAWAO"
+    },
+    {
+      "city": "Anahola",
+      "neighborhood": "ANAHOLA"
+    },
+    {
+      "city": "Alkmaar",
+      "neighborhood": null
+    }
+  ]
+  

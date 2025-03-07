@@ -1,138 +1,324 @@
-![banner](https://github.com/dr5hn/countries-states-cities-database/raw/master/.github/banner.png)
+# Countries-States-Cities-Neighborhood Database
 
-# 🌍 Countries States Cities Database
-![release](https://img.shields.io/github/v/release/dr5hn/countries-states-cities-database?style=flat-square)
-![size](https://img.shields.io/github/repo-size/dr5hn/countries-states-cities-database?label=size&style=flat-square)
+A comprehensive library for working with country, state/region, city, and neighborhood data. This npm package provides simple, intuitive functions to query and filter location data from around the world.
 
-Full Database of city state country available in JSON, MYSQL, PSQL, SQLITE, XML, YAML & CSV format.
-All Countries, States & Cities are Covered & Populated with Different Combinations & Versions.
-## API 🚀
-🎉 Introducing **API** for Countries States Cities Database.
+## Table of Contents
 
-[API Documentation](https://countrystatecity.in/)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Data Structure](#data-structure)
+- [API Reference](#api-reference)
+  - [Countries](#countries)
+  - [States/Regions](#statesregions)
+  - [Cities](#cities)
+  - [Neighborhoods](#neighborhoods)
+  - [Search & Geolocation](#search--geolocation)
 
-[![banner](.github/api.png)](https://countrystatecity.in/)
+## Installation
 
-## Available Formats
-- JSON
-- MYSQL
-- PSQL
-- SQLITE
-- SQLSERVER
-- XML
-- YAML
-- CSV
+```bash
+npm install countries-states-cities-neighborhood-database
+```
 
-## Distribution Files Info
-| File                       | JSON               | MYSQL              | PSQL               | SQLITE             | SQLSERVER          | XML                | YAML               | CSV                |
-| :------------------------- | :----------------- | :----------------- | :----------------- | :----------------- | :----------------- | :----------------- | :----------------- | :----------------- |
-| Regions                    | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
-| Subregions                 | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
-| Countries                  | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
-| States                     | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
-| Cities                     | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
-| Country+States             | :white_check_mark: | NA                 | NA                 | NA                 | NA                 | NA                 | NA                 | NA                 |
-| Country+Cities             | :white_check_mark: | NA                 | NA                 | NA                 | NA                 | NA                 | NA                 | NA                 |
-| State+Cities               | :white_check_mark: | NA                 | NA                 | NA                 | NA                 | NA                 | NA                 | NA                 |
-| Country+State+Cities/World | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | NA                 | NA                 | NA                 |
+## Usage
 
-## Demo
-https://dr5hn.github.io/countries-states-cities-database/
+The package provides two ways to use the library:
 
-## Insights
-Total Regions : 6 <br>
-Total Sub Regions : 22 <br>
-Total Countries : 250 <br>
-Total States/Regions/Municipalities : 5,038 <br>
-Total Cities/Towns/Districts : 151,024 <br>
+### 1. API Factory (Recommended)
 
-Last Updated On : 04th Jan 2025
+The API factory pattern is the simplest way to use the library, as it loads the dataset automatically:
 
-## Next API Database Update
+```javascript
+const locationDB = require('countries-states-cities-neighborhood-database');
+const api = locationDB.createAPI();
 
-The API database is regularly updated to ensure the latest data is available to users. The next scheduled update is on:
+// Get all countries
+const countries = api.getAllCountries();
 
-**Upcoming API Database Update Date:** 8th January 2025
+// Get all cities in the United States
+const usCities = api.getCitiesByCountry('US');
 
-Please note that this date is subject to change based on unforeseen circumstances. Although we strive to adhere to the schedule, there may be instances where the update date is missed. We apologize for any inconvenience caused in such cases.
+// Find cities near a location (within 50km)
+const nearbyCities = api.getCitiesByGeoLocation(40.7128, -74.0060, 50);
+```
 
-We appreciate your understanding and patience. Thank you for using the Countries States Cities Database!
+### 2. Direct Function Access
+
+You can also use the functions directly with your own dataset:
+
+```javascript
+const locationDB = require('countries-states-cities-neighborhood-database');
+const data = require('./path/to/your/data.json');
+
+// Get all countries
+const countries = locationDB.getAllCountries(data);
+
+// Get all cities in the United States
+const usCities = locationDB.getCitiesByCountry(data, 'US');
+
+// Find cities near a location (within 50km)
+const nearbyCities = locationDB.getCitiesByGeoLocation(data, 40.7128, -74.0060, 50);
+```
+
+## Data Structure
+
+This library expects your data to follow a specific structure:
+
+```javascript
+[
+  {
+    "id": 231,
+    "name": "United States",
+    "iso2": "US",
+    "iso3": "USA",
+    "states": [
+      {
+        "id": 3901,
+        "name": "California",
+        "state_code": "CA",
+        "cities": [
+          {
+            "id": 52327,
+            "name": "San Francisco",
+            "latitude": "37.77493",
+            "longitude": "-122.41942"
+          }
+        ]
+      }
+    ]
+  }
+]
+```
+
+## API Reference
+
+The examples below show both usage patterns: the API factory method and direct function calls.
+
+### Countries
+
+#### `getAllCountries(data)`
+Returns an array of all countries in the dataset.
+
+- **Parameters**:
+  - `data` (Array): The complete dataset *(not needed when using API factory)*
+- **Returns**: Array of country objects
+- **Example**:
+  ```javascript
+  // Using API factory
+  const countries = api.getAllCountries();
+  
+  // Direct function call
+  const countries = locationDB.getAllCountries(data);
+  
+  console.log(countries.length); // Number of countries
+  ```
+
+#### `getCountryByCode(data, isoCode)`
+Finds a country by its ISO code (ISO2 or ISO3).
+
+- **Parameters**:
+  - `data` (Array): The complete dataset *(not needed when using API factory)*
+  - `isoCode` (String): ISO2 or ISO3 code to search for
+- **Returns**: Country object or null if not found
+- **Example**:
+  ```javascript
+  // Using API factory
+  const usa = api.getCountryByCode('US');
+  const canada = api.getCountryByCode('CAN');
+  
+  // Direct function call
+  const usa = locationDB.getCountryByCode(data, 'US');
+  const canada = locationDB.getCountryByCode(data, 'CAN');
+  ```
+
+#### `getCountryByName(data, name)`
+Finds a country by its name.
+
+- **Parameters**:
+  - `data` (Array): The complete dataset
+  - `name` (String): Country name to search for
+- **Returns**: Country object or null if not found
+- **Example**:
+  ```javascript
+  const japan = getCountryByName(data, 'Japan');
+  ```
+
+### States/Regions
+
+#### `getAllStates(data)`
+Returns an array of all states/regions from all countries.
+
+- **Parameters**:
+  - `data` (Array): The complete dataset
+- **Returns**: Array of state objects with country info attached
+- **Example**:
+  ```javascript
+  const allStates = getAllStates(data);
+  console.log(allStates[0]); // First state with country information
+  ```
+
+#### `getStatesByCountry(data, countryIdentifier)`
+Returns all states for a specific country.
+
+- **Parameters**:
+  - `data` (Array): The complete dataset
+  - `countryIdentifier` (String|Number): Country ID, name, or ISO code
+- **Returns**: Array of state objects or empty array if country not found
+- **Example**:
+  ```javascript
+  const usStates = getStatesByCountry(data, 'US');
+  const canadianProvinces = getStatesByCountry(data, 'Canada');
+  ```
+
+#### `getStateByCode(data, countryIdentifier, stateCode)`
+Finds a specific state by its code.
+
+- **Parameters**:
+  - `data` (Array): The complete dataset
+  - `countryIdentifier` (String|Number): Country ID, name, or ISO code
+  - `stateCode` (String): State code to search for
+- **Returns**: State object or null if not found
+- **Example**:
+  ```javascript
+  const california = getStateByCode(data, 'US', 'CA');
+  ```
+
+### Cities
+
+#### `getAllCities(data)`
+Returns an array of all cities from all countries.
+
+- **Parameters**:
+  - `data` (Array): The complete dataset
+- **Returns**: Array of city objects with country and state info attached
+- **Example**:
+  ```javascript
+  const allCities = getAllCities(data);
+  console.log(allCities.length); // Total number of cities
+  ```
+
+#### `getCitiesByCountry(data, countryIdentifier)`
+Returns all cities for a specific country.
+
+- **Parameters**:
+  - `data` (Array): The complete dataset
+  - `countryIdentifier` (String|Number): Country ID, name, or ISO code
+- **Returns**: Array of city objects with state info attached
+- **Example**:
+  ```javascript
+  const usCities = getCitiesByCountry(data, 'US');
+  ```
+
+#### `getCitiesByState(data, countryIdentifier, stateIdentifier)`
+Returns all cities for a specific state/region.
+
+- **Parameters**:
+  - `data` (Array): The complete dataset
+  - `countryIdentifier` (String|Number): Country ID, name, or ISO code
+  - `stateIdentifier` (String|Number): State ID, name, or code
+- **Returns**: Array of city objects
+- **Example**:
+  ```javascript
+  const texasCities = getCitiesByState(data, 'US', 'TX');
+  ```
+
+#### `getCityByName(data, countryIdentifier, stateIdentifier, cityName)`
+Finds a specific city by name within a state.
+
+- **Parameters**:
+  - `data` (Array): The complete dataset
+  - `countryIdentifier` (String|Number): Country ID, name, or ISO code
+  - `stateIdentifier` (String|Number): State ID, name, or code
+  - `cityName` (String): City name to search for
+- **Returns**: City object or null if not found
+- **Example**:
+  ```javascript
+  const boston = getCityByName(data, 'US', 'MA', 'Boston');
+  ```
+
+### Neighborhoods
+
+#### `getNeighborhoodsByCity(data, countryIdentifier, stateIdentifier, cityIdentifier, basePath)`
+Returns all neighborhoods for a specific city.
+
+- **Parameters**:
+  - `data` (Array): The complete dataset
+  - `countryIdentifier` (String|Number): Country ID, name, or ISO code
+  - `stateIdentifier` (String|Number): State ID, name, or code
+  - `cityIdentifier` (String|Number): City ID or name
+  - `basePath` (String): Base path for neighborhood data files (default: '../data/json/neighborhoods')
+- **Returns**: Array of neighborhood objects or empty array if city not found or has no neighborhoods
+- **Example**:
+  ```javascript
+  const neighborhoods = getNeighborhoodsByCity(data, 'US', 'NY', 'New York');
+  ```
+
+### Search & Geolocation
+
+#### `searchCities(data, query, countryIdentifier)`
+Searches for cities matching a query across all countries or a specific country.
+
+- **Parameters**:
+  - `data` (Array): The complete dataset
+  - `query` (String): Search query
+  - `countryIdentifier` (String|Number, optional): Country to limit search
+- **Returns**: Array of matching city objects
+- **Example**:
+  ```javascript
+  const springfields = searchCities(data, 'Springfield');
+  const canadianVancouvers = searchCities(data, 'Vancouver', 'CA');
+  ```
+
+#### `getCitiesByGeoLocation(data, latitude, longitude, radiusKm)`
+Finds cities within a certain radius of GPS coordinates.
+
+- **Parameters**:
+  - `data` (Array): The complete dataset
+  - `latitude` (Number): Latitude coordinate
+  - `longitude` (Number): Longitude coordinate
+  - `radiusKm` (Number): Search radius in kilometers
+- **Returns**: Array of city objects within the radius, sorted by distance
+- **Example**:
+  ```javascript
+  // Cities within 50km of NYC
+  const citiesNearNYC = getCitiesByGeoLocation(data, 40.7128, -74.0060, 50);
+  ```
+
+## Internal Helper Functions
+
+The library uses these internal helper functions:
+
+- `calculateDistance(lat1, lon1, lat2, lon2)`: Calculates distance between two points using the Haversine formula
+- `toRad(value)`: Converts degrees to radians
+
+## Project Structure
+
+```
+countries-states-cities-neighborhood-database/
+│
+├── data/
+│   └── json/
+│       ├── countries+states+cities.json    # Main dataset
+│       └── neighborhoods/                  # Neighborhood data
+│           └── [STATE_CODE]/
+│               └── neighborhoods.json
+│
+├── src/
+│   └── functions.js                        # Core functionality
+│
+├── index.js                                # API factory & exports
+├── package.json
+└── README.md
+```
+
+## Testing
+
+This package uses Jest for testing:
+
+```bash
+npm test
+```
 
 ## License
-This **Countries States Cities Database** is made available under the [Open Database License](https://github.com/dr5hn/countries-states-cities-database/blob/master/LICENSE). Any rights in individual contents of the database are licensed under the [Database Contents License](https://github.com/dr5hn/countries-states-cities-database/blob/master/.github/CONTENT_LICENSE).
 
-## Contributing
-
-:+1::tada: First off, thanks for your interest in contributing! :tada::+1:
-
-If you want to contribute to the database, please follow the guidelines outlined below:
-
-### Contributing Guidelines
-
-- Fork the repository and clone it to your local machine.
-- Make the necessary changes to the data:
-  - To fix cities records, update the `sql/world.sql` > cities Table.
-  - To fix states/provinces records, update the `sql/world.sql` > states Table.
-  - To fix countries records, update the `sql/world.sql` > countries Table.
-  - To fix regions records, update the `sql/world.sql` > regions Table.
-  - To fix subregions records, update the `sql/world.sql` > subregions Table.
-- Once you've made the changes, create a pull request with a clear description of the modifications you've made.
-
-Please make sure to review the guidelines before making any contributions. They will help ensure that your contributions align with the project's standards and make the process smoother for everyone involved.
-
-You can find the detailed contribution guidelines [here](https://github.com/dr5hn/countries-states-cities-database/blob/master/.github/CONTRIBUTING.md).
-
-## Repo Activity
-
-![Repo Activity](https://repobeats.axiom.co/api/embed/635051d1a8be17610a967b7b07b65c0148f13654.svg "Repobeats analytics image")
-
-As always, thanks to our amazing contributors!
-
-<a href="https://github.com/dr5hn/countries-states-cities-database/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=dr5hn/countries-states-cities-database&anon=1" />
-</a>
-
-Made with [contrib.rocks](https://contrib.rocks).
-
-## Sponsors
-<p align="center">
-  <a href="https://cdn.jsdelivr.net/gh/dr5hn/static/sponsors.svg">
-    <img src='https://cdn.jsdelivr.net/gh/dr5hn/static/sponsors.svg'/>
-  </a>
-</p>
-
-## Make the world more Greener 🌴
-Contribute towards better earth [**buy the world a tree**](https://ecologi.com/darshangada?r=60f2a36e67efcb18f734ffb8)
-
-## Other Publishings
-Find this project on [data.world](https://data.world/dr5hn/country-state-city)
-
-## Follow me at
-<a href="https://github.com/dr5hn/"><img alt="Github @dr5hn" src="https://img.shields.io/static/v1?logo=github&message=Github&color=black&style=flat-square&label=" /></a> <a href="https://twitter.com/dr5hn/"><img alt="Twitter @dr5hn" src="https://img.shields.io/static/v1?logo=twitter&message=Twitter&color=black&style=flat-square&label=" /></a> <a href="https://www.linkedin.com/in/dr5hn/"><img alt="LinkedIn @dr5hn" src="https://img.shields.io/static/v1?logo=linkedin&message=LinkedIn&color=black&style=flat-square&label=&link=https://twitter.com/dr5hn" /></a>
-
-## 🙋‍♂️ Support My Work
-[![Github Sponsorship](https://raw.githubusercontent.com/dr5hn/dr5hn/main/.github/resources/github_sponsor_btn.svg)](https://github.com/sponsors/dr5hn)
-
-[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/dr5hn)
-
-
-## Suggestions / Feedbacks
-```
-Suggestions & Feedbacks are Most Welcome
-gadadarshan[at]gmail[dot]com
-```
-
-## Disclaimer
-Please note that while every effort has been made to ensure the accuracy and completeness of the Countries States Cities Database, it may still contain errors or omissions. The database is continuously being refined and improved based on user feedback and contributions.
-
-Contributors are encouraged to review the Contribution Guidelines and follow the specified guidelines for updating and correcting data in the database. However, due to the collaborative nature of the project, we cannot guarantee the absolute accuracy or reliability of the information provided.
-
-The Countries States Cities Database is made available under the Open Database License, and any rights in individual contents of the database are licensed under the Database Contents License. Users are responsible for independently verifying the data and using it at their own discretion.
-
-We appreciate the efforts of contributors in identifying and addressing issues in the database, and we encourage users to report any inaccuracies or suggest improvements through creating issues. However, please note that the database may not always reflect the latest geopolitical changes or political status.
-
-It is recommended that users consult official sources and corroborate the data from the Countries States Cities Database with other reliable references for critical applications or decision-making processes.
-
-By accessing and using the Countries States Cities Database, users acknowledge and agree to the aforementioned disclaimer and the terms of the Open Database License and the Database Contents License.
-
-That's all Folks. Enjoy.
+ISC
