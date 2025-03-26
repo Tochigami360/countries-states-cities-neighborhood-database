@@ -248,7 +248,8 @@ function getNeighborhoodsByCity(data, countryIdentifier, stateIdentifier, cityId
   
   // Load neighborhoods from the external file with the correct path structure
   try {
-    const neighborhoodsFilePath = path.join(basePath, state.state_code, 'neighborhoods.json');
+    const neighborhoodsFilePath = path.join(__dirname, '../data/json/neighborhoods', stateIdentifier, 'neighborhoods.json');
+    // const neighborhoodsFilePath = path.join(basePath, state.state_code, 'neighborhoods.json');
     
     if (!fs.existsSync(neighborhoodsFilePath)) {
       return [];
