@@ -1,6 +1,6 @@
 {
   "name": "countries-states-cities-neighborhood-database",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "description": "contains country, state, cities, neighborhood, and building data",
   "main": "index.js",
   "browser": "browser.js",
