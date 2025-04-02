@@ -210,8 +210,8 @@ function getAllCountries(data) {
  * @return {Array} Array of neighborhood objects or empty array if city not found or has no neighborhoods
  */
 function getNeighborhoodsByCity(data, countryIdentifier, stateIdentifier, cityIdentifier, basePath = '../data/json/neighborhoods') {
-  const fs = require('fs');
   const path = require('path');
+  const fse = require('fs-extra');
   
   // First, verify the city exists in our data
   const cities = getCitiesByState(data, countryIdentifier, stateIdentifier);
@@ -248,15 +248,13 @@ function getNeighborhoodsByCity(data, countryIdentifier, stateIdentifier, cityId
   
   // Load neighborhoods from the external file with the correct path structure
   try {
-    const neighborhoodsFilePath = path.join(__dirname, '../data/json/neighborhoods', stateIdentifier, 'neighborhoods.json');
-    // const neighborhoodsFilePath = path.join(basePath, state.state_code, 'neighborhoods.json');
+    const neighborhoodsFilePath = path.join(__dirname, basePath, stateIdentifier, 'neighborhoods.json');
     
-    if (!fs.existsSync(neighborhoodsFilePath)) {
+    if (!fse.pathExistsSync(neighborhoodsFilePath)) {
       return [];
     }
     
-    const rawData = fs.readFileSync(neighborhoodsFilePath, 'utf8');
-    const neighborhoodsData = JSON.parse(rawData);
+    const neighborhoodsData = fse.readJsonSync(neighborhoodsFilePath);
     
     // Filter neighborhoods for this city
     return neighborhoodsData
